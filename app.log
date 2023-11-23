@@ -1,0 +1,685 @@
+2023-10-19 07:27:18,404 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.100.2:8000
+2023-10-19 07:27:18,404 [INFO] [33mPress CTRL+C to quit[0m
+2023-10-19 07:27:18,405 [INFO]  * Restarting with stat
+2023-10-19 07:27:18,505 [WARNING]  * Debugger is active!
+2023-10-19 07:27:18,512 [INFO]  * Debugger PIN: 990-498-489
+2023-10-19 07:28:07,695 [INFO] messages : 你会python吗
+2023-10-19 07:28:07,695 [INFO] pid: 0
+2023-10-19 07:28:07,710 [DEBUG] Starting new HTTP connection (1): 121.37.20.242:16666
+2023-10-19 07:28:09,815 [DEBUG] http://121.37.20.242:16666 "POST /api/conversation/talk HTTP/1.1" 200 764
+2023-10-19 07:28:09,819 [INFO] 127.0.0.1 - - [19/Oct/2023 07:28:09] "POST /post_chatgpt HTTP/1.1" 200 -
+2023-10-19 07:32:04,092 [INFO] messages : 写hello world
+2023-10-19 07:32:04,092 [INFO] pid: 55ea8c86-e964-4db7-853b-e681611edd61
+2023-10-19 07:32:04,096 [DEBUG] Starting new HTTP connection (1): 121.37.20.242:16666
+2023-10-19 07:32:05,639 [DEBUG] http://121.37.20.242:16666 "POST /api/conversation/talk HTTP/1.1" 200 614
+2023-10-19 07:32:05,646 [INFO] 127.0.0.1 - - [19/Oct/2023 07:32:05] "POST /post_chatgpt HTTP/1.1" 200 -
+2023-10-19 07:33:44,113 [INFO]  * Detected change in '/Users/ll/PycharmProjects/pythonProject/app-gpt/func.py', reloading
+2023-10-19 07:33:44,165 [INFO]  * Restarting with stat
+2023-10-19 07:33:44,335 [WARNING]  * Debugger is active!
+2023-10-19 07:33:44,343 [INFO]  * Debugger PIN: 990-498-489
+2023-10-19 07:34:10,124 [INFO]  * Detected change in '/Users/ll/PycharmProjects/pythonProject/app-gpt/func.py', reloading
+2023-10-19 07:34:10,175 [INFO]  * Restarting with stat
+2023-10-19 07:34:10,319 [WARNING]  * Debugger is active!
+2023-10-19 07:34:10,323 [INFO]  * Debugger PIN: 990-498-489
+2023-10-19 07:35:06,176 [INFO]  * Detected change in '/Users/ll/PycharmProjects/pythonProject/app-gpt/func.py', reloading
+2023-10-19 07:35:06,206 [INFO]  * Restarting with stat
+2023-10-19 07:35:06,336 [WARNING]  * Debugger is active!
+2023-10-19 07:35:06,342 [INFO]  * Debugger PIN: 990-498-489
+2023-10-19 07:36:15,675 [INFO]  * Detected change in '/Users/ll/PycharmProjects/pythonProject/app-gpt/func.py', reloading
+2023-10-19 07:36:15,716 [INFO]  * Restarting with stat
+2023-10-19 07:36:15,897 [WARNING]  * Debugger is active!
+2023-10-19 07:36:15,901 [INFO]  * Debugger PIN: 990-498-489
+2023-10-19 07:39:05,904 [INFO]  * Detected change in '/Users/ll/PycharmProjects/pythonProject/app-gpt/func.py', reloading
+2023-10-19 07:39:05,950 [INFO]  * Restarting with stat
+2023-10-19 07:39:06,099 [WARNING]  * Debugger is active!
+2023-10-19 07:39:06,104 [INFO]  * Debugger PIN: 990-498-489
+2023-10-19 07:39:26,736 [INFO]  * Detected change in '/Users/ll/PycharmProjects/pythonProject/app-gpt/func.py', reloading
+2023-10-19 07:39:26,788 [INFO]  * Restarting with stat
+2023-10-19 07:39:26,954 [WARNING]  * Debugger is active!
+2023-10-19 07:39:26,958 [INFO]  * Debugger PIN: 990-498-489
+2023-10-19 07:39:30,033 [INFO]  * Detected change in '/Users/ll/PycharmProjects/pythonProject/app-gpt/main.py', reloading
+2023-10-19 07:39:30,055 [INFO]  * Restarting with stat
+2023-10-19 07:39:30,162 [WARNING]  * Debugger is active!
+2023-10-19 07:39:30,166 [INFO]  * Debugger PIN: 990-498-489
+2023-10-19 07:41:35,120 [INFO]  * Detected change in '/Users/ll/PycharmProjects/pythonProject/app-gpt/func.py', reloading
+2023-10-19 07:41:35,159 [INFO]  * Restarting with stat
+2023-10-19 07:41:35,316 [WARNING]  * Debugger is active!
+2023-10-19 07:41:35,321 [INFO]  * Debugger PIN: 990-498-489
+2023-10-19 07:44:57,374 [INFO]  * Detected change in '/Users/ll/PycharmProjects/pythonProject/app-gpt/main.py', reloading
+2023-10-19 07:44:57,414 [INFO]  * Restarting with stat
+2023-10-19 07:44:57,599 [WARNING]  * Debugger is active!
+2023-10-19 07:44:57,605 [INFO]  * Debugger PIN: 990-498-489
+2023-10-19 07:45:01,231 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.100.2:8000
+2023-10-19 07:45:01,231 [INFO] [33mPress CTRL+C to quit[0m
+2023-10-19 07:45:01,231 [INFO]  * Restarting with stat
+2023-10-19 07:45:01,325 [WARNING]  * Debugger is active!
+2023-10-19 07:45:01,328 [INFO]  * Debugger PIN: 990-498-489
+2023-10-19 07:45:19,117 [DEBUG] Starting new HTTP connection (1): 121.37.20.242:16666
+2023-10-19 07:45:21,121 [DEBUG] http://121.37.20.242:16666 "POST /api/conversation/talk HTTP/1.1" 200 680
+2023-10-19 07:45:21,123 [INFO] 127.0.0.1 - - [19/Oct/2023 07:45:21] "POST /post_chatgpt HTTP/1.1" 200 -
+2023-10-19 07:45:41,162 [DEBUG] Starting new HTTP connection (1): 121.37.20.242:16666
+2023-10-19 07:45:43,147 [DEBUG] http://121.37.20.242:16666 "POST /api/conversation/talk HTTP/1.1" 200 763
+2023-10-19 07:45:43,327 [INFO] 127.0.0.1 - - [19/Oct/2023 07:45:43] "POST /post_chatgpt HTTP/1.1" 200 -
+2023-10-19 07:48:19,873 [INFO]  * Detected change in '/Users/ll/PycharmProjects/pythonProject/app-gpt/main.py', reloading
+2023-10-19 07:48:20,025 [INFO]  * Restarting with stat
+2023-10-19 07:48:20,250 [WARNING]  * Debugger is active!
+2023-10-19 07:48:20,258 [INFO]  * Debugger PIN: 990-498-489
+2023-10-19 07:49:29,843 [INFO]  * Detected change in '/Users/ll/PycharmProjects/pythonProject/app-gpt/main.py', reloading
+2023-10-19 07:49:29,965 [INFO]  * Restarting with stat
+2023-10-19 07:49:30,314 [WARNING]  * Debugger is active!
+2023-10-19 07:49:30,414 [INFO]  * Debugger PIN: 990-498-489
+2023-10-19 07:51:37,992 [INFO]  * Detected change in '/Users/ll/PycharmProjects/pythonProject/app-gpt/main.py', reloading
+2023-10-19 07:51:38,041 [INFO]  * Restarting with stat
+2023-10-19 07:51:38,233 [WARNING]  * Debugger is active!
+2023-10-19 07:51:38,238 [INFO]  * Debugger PIN: 990-498-489
+2023-10-19 07:51:42,458 [INFO]  * Detected change in '/Users/ll/PycharmProjects/pythonProject/app-gpt/main.py', reloading
+2023-10-19 07:51:42,481 [INFO]  * Restarting with stat
+2023-10-19 07:51:42,602 [WARNING]  * Debugger is active!
+2023-10-19 07:51:42,606 [INFO]  * Debugger PIN: 990-498-489
+2023-10-19 07:51:54,929 [INFO]  * Detected change in '/Users/ll/PycharmProjects/pythonProject/app-gpt/main.py', reloading
+2023-10-19 07:51:54,960 [INFO]  * Restarting with stat
+2023-10-19 07:51:55,108 [WARNING]  * Debugger is active!
+2023-10-19 07:51:55,112 [INFO]  * Debugger PIN: 990-498-489
+2023-10-19 07:52:16,771 [INFO]  * Detected change in '/Users/ll/PycharmProjects/pythonProject/app-gpt/func.py', reloading
+2023-10-19 07:52:30,603 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.100.2:8000
+2023-10-19 07:52:30,603 [INFO] [33mPress CTRL+C to quit[0m
+2023-10-19 07:52:30,603 [INFO]  * Restarting with stat
+2023-10-19 07:52:30,703 [WARNING]  * Debugger is active!
+2023-10-19 07:52:30,708 [INFO]  * Debugger PIN: 990-498-489
+2023-10-19 07:52:37,433 [DEBUG] Starting new HTTP connection (1): 121.37.20.242:16666
+2023-10-19 07:52:39,333 [DEBUG] http://121.37.20.242:16666 "POST /api/conversation/talk HTTP/1.1" 200 746
+2023-10-19 07:52:39,336 [INFO] 127.0.0.1 - - [19/Oct/2023 07:52:39] "POST /post_chatgpt HTTP/1.1" 200 -
+2023-10-19 08:15:18,508 [INFO]  * Detected change in '/Users/ll/PycharmProjects/pythonProject/app-gpt/func.py', reloading
+2023-10-19 01:16:12,648 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://172.19.0.2:8000
+2023-10-19 01:16:12,648 [INFO] [33mPress CTRL+C to quit[0m
+2023-10-19 01:16:12,649 [INFO]  * Restarting with stat
+2023-10-19 01:16:12,969 [WARNING]  * Debugger is active!
+2023-10-19 01:16:12,971 [INFO]  * Debugger PIN: 847-696-351
+2023-10-19 01:22:21,921 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://172.19.0.2:8000
+2023-10-19 01:22:21,921 [INFO] [33mPress CTRL+C to quit[0m
+2023-10-19 01:22:21,922 [INFO]  * Restarting with stat
+2023-10-19 01:22:22,191 [WARNING]  * Debugger is active!
+2023-10-19 01:22:22,192 [INFO]  * Debugger PIN: 847-696-351
+2023-10-19 01:24:11,135 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://172.19.0.2:8000
+2023-10-19 01:24:11,136 [INFO] [33mPress CTRL+C to quit[0m
+2023-10-19 01:24:11,137 [INFO]  * Restarting with stat
+2023-10-19 01:24:11,413 [WARNING]  * Debugger is active!
+2023-10-19 01:24:11,414 [INFO]  * Debugger PIN: 847-696-351
+2023-10-19 02:31:08,620 [INFO] 124.70.70.4 - - [19/Oct/2023 02:31:08] "[33mHEAD / HTTP/1.1[0m" 404 -
+2023-10-19 02:31:08,709 [INFO] 124.70.70.4 - - [19/Oct/2023 02:31:08] "[33mGET / HTTP/1.1[0m" 404 -
+2023-10-19 03:10:12,987 [INFO] 121.36.17.218 - - [19/Oct/2023 03:10:12] "[31m[1mHEAD /post_chatgpt HTTP/1.1[0m" 405 -
+2023-10-19 06:24:40,933 [DEBUG] Starting new HTTP connection (1): 121.37.20.242:16666
+2023-10-19 06:24:50,177 [DEBUG] http://121.37.20.242:16666 "POST /api/conversation/talk HTTP/1.1" 200 680
+2023-10-19 06:24:50,179 [DEBUG] Starting new HTTP connection (1): 121.37.20.242:16666
+2023-10-19 06:24:52,044 [DEBUG] http://121.37.20.242:16666 "POST /api/conversation/gen_title/0c484809-c213-405d-b055-26d437cb9675 HTTP/1.1" 200 30
+2023-10-19 06:24:52,045 [INFO] 121.37.20.242 - - [19/Oct/2023 06:24:52] "POST /post_chatgpt HTTP/1.1" 200 -
+2023-10-19 06:25:52,612 [DEBUG] Starting new HTTP connection (1): 121.37.20.242:16666
+2023-10-19 06:25:57,245 [DEBUG] http://121.37.20.242:16666 "POST /api/conversation/talk HTTP/1.1" 200 1620
+2023-10-19 06:25:57,246 [INFO] 121.37.20.242 - - [19/Oct/2023 06:25:57] "POST /post_chatgpt HTTP/1.1" 200 -
+2023-10-19 08:55:54,840 [DEBUG] Starting new HTTP connection (1): 121.37.20.242:16666
+2023-10-19 08:56:09,721 [DEBUG] http://121.37.20.242:16666 "POST /api/conversation/talk HTTP/1.1" 200 1479
+2023-10-19 08:56:09,722 [INFO] 121.37.20.242 - - [19/Oct/2023 08:56:09] "POST /post_chatgpt HTTP/1.1" 200 -
+2023-10-19 21:52:27,800 [ERROR] 172.105.128.12 - - [19/Oct/2023 21:52:27] code 400, message Bad request version ('¦\x8a\x1a')
+2023-10-19 21:52:27,800 [INFO] 172.105.128.12 - - [19/Oct/2023 21:52:27] "[31m[1m\x16\x03\x01\x00\x85\x01\x00\x00\x81\x03\x03x\x12\x1c¦\x8a\x1a[0m" 400 -
+2023-10-19 22:04:38,643 [INFO] 69.164.217.245 - - [19/Oct/2023 22:04:38] "[33mGET / HTTP/1.1[0m" 404 -
+2023-10-19 22:38:56,145 [INFO] 172.104.11.51 - - [19/Oct/2023 22:38:56] "[33mGET / HTTP/1.1[0m" 404 -
+2023-10-19 23:54:46,151 [INFO] 192.155.90.118 - - [19/Oct/2023 23:54:46] "[33mGET / HTTP/1.1[0m" 404 -
+2023-10-20 01:44:59,253 [DEBUG] Starting new HTTP connection (1): 121.37.20.242:16666
+2023-10-20 01:45:00,645 [DEBUG] http://121.37.20.242:16666 "POST /api/conversation/talk HTTP/1.1" 500 55
+2023-10-20 01:45:00,657 [INFO] 121.37.20.242 - - [20/Oct/2023 01:45:00] "[35m[1mPOST /post_chatgpt HTTP/1.1[0m" 500 -
+2023-10-20 01:45:08,953 [DEBUG] Starting new HTTP connection (1): 121.37.20.242:16666
+2023-10-20 01:45:10,030 [DEBUG] http://121.37.20.242:16666 "POST /api/conversation/talk HTTP/1.1" 500 55
+2023-10-20 01:45:10,036 [INFO] 121.37.20.242 - - [20/Oct/2023 01:45:10] "[35m[1mPOST /post_chatgpt HTTP/1.1[0m" 500 -
+2023-10-20 01:45:16,055 [DEBUG] Starting new HTTP connection (1): 121.37.20.242:16666
+2023-10-20 01:45:16,969 [DEBUG] http://121.37.20.242:16666 "POST /api/conversation/talk HTTP/1.1" 500 55
+2023-10-20 01:45:16,974 [INFO] 121.37.20.242 - - [20/Oct/2023 01:45:16] "[35m[1mPOST /post_chatgpt HTTP/1.1[0m" 500 -
+2023-10-20 01:51:43,453 [DEBUG] Starting new HTTP connection (1): 121.37.20.242:16666
+2023-10-20 01:51:44,471 [DEBUG] http://121.37.20.242:16666 "POST /api/conversation/talk HTTP/1.1" 418 79
+2023-10-20 01:51:44,476 [INFO] 121.37.20.242 - - [20/Oct/2023 01:51:44] "[35m[1mPOST /post_chatgpt HTTP/1.1[0m" 500 -
+2023-10-20 01:55:18,140 [INFO]  * Detected change in '/app/main.py', reloading
+2023-10-20 02:01:36,231 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://172.23.0.2:8000
+2023-10-20 02:01:36,232 [INFO] [33mPress CTRL+C to quit[0m
+2023-10-20 02:01:36,233 [INFO]  * Restarting with stat
+2023-10-20 02:01:36,512 [WARNING]  * Debugger is active!
+2023-10-20 02:01:36,513 [INFO]  * Debugger PIN: 125-190-223
+2023-10-20 02:01:40,469 [DEBUG] Starting new HTTP connection (1): 121.37.20.242:16666
+2023-10-20 02:01:41,312 [DEBUG] http://121.37.20.242:16666 "POST /api/conversation/talk HTTP/1.1" 418 79
+2023-10-20 02:01:41,322 [INFO] 120.230.136.238 - - [20/Oct/2023 02:01:41] "[35m[1mPOST /post_chatgpt HTTP/1.1[0m" 500 -
+2023-10-20 02:08:53,184 [INFO]  * Detected change in '/app/func.py', reloading
+2023-10-20 08:19:10,667 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://172.25.0.2:8000
+2023-10-20 08:19:10,667 [INFO] [33mPress CTRL+C to quit[0m
+2023-10-20 08:19:10,668 [INFO]  * Restarting with stat
+2023-10-20 08:19:10,955 [WARNING]  * Debugger is active!
+2023-10-20 08:19:10,956 [INFO]  * Debugger PIN: 128-170-335
+2023-10-20 08:19:14,093 [DEBUG] Starting new HTTP connection (1): 121.37.20.242:16666
+2023-10-20 08:19:16,121 [DEBUG] http://121.37.20.242:16666 "POST /api/conversation/talk HTTP/1.1" 200 680
+2023-10-20 08:19:16,123 [DEBUG] Starting new HTTP connection (1): 121.37.20.242:16666
+2023-10-20 08:19:17,486 [DEBUG] http://121.37.20.242:16666 "POST /api/conversation/gen_title/9d68fff8-644d-4d64-95ed-d716a80bd77a HTTP/1.1" 200 30
+2023-10-20 08:19:17,487 [INFO] 121.37.20.242 - - [20/Oct/2023 08:19:17] "POST /post_chatgpt HTTP/1.1" 200 -
+2023-10-20 08:19:59,368 [DEBUG] Starting new HTTP connection (1): 121.37.20.242:16666
+2023-10-20 08:20:05,899 [DEBUG] http://121.37.20.242:16666 "POST /api/conversation/talk HTTP/1.1" 200 2357
+2023-10-20 08:20:05,900 [INFO] 121.37.20.242 - - [20/Oct/2023 08:20:05] "POST /post_chatgpt HTTP/1.1" 200 -
+2023-10-20 09:15:27,050 [DEBUG] Starting new HTTP connection (1): 121.37.20.242:16666
+2023-10-20 09:15:33,644 [DEBUG] http://121.37.20.242:16666 "POST /api/conversation/talk HTTP/1.1" 200 2348
+2023-10-20 09:15:33,646 [DEBUG] Starting new HTTP connection (1): 121.37.20.242:16666
+2023-10-20 09:15:36,716 [DEBUG] http://121.37.20.242:16666 "POST /api/conversation/gen_title/f3fe0d9c-7fbd-40e5-8d07-cd2117a91e9d HTTP/1.1" 200 33
+2023-10-20 09:15:36,717 [INFO] 121.37.20.242 - - [20/Oct/2023 09:15:36] "POST /post_chatgpt HTTP/1.1" 200 -
+2023-10-20 09:17:56,774 [DEBUG] Starting new HTTP connection (1): 121.37.20.242:16666
+2023-10-20 09:18:03,414 [DEBUG] http://121.37.20.242:16666 "POST /api/conversation/talk HTTP/1.1" 200 2225
+2023-10-20 09:18:03,415 [INFO] 121.37.20.242 - - [20/Oct/2023 09:18:03] "POST /post_chatgpt HTTP/1.1" 200 -
+2023-10-20 09:18:46,697 [DEBUG] Starting new HTTP connection (1): 121.37.20.242:16666
+2023-10-20 09:18:52,649 [DEBUG] http://121.37.20.242:16666 "POST /api/conversation/talk HTTP/1.1" 200 2200
+2023-10-20 09:18:52,649 [INFO] 121.37.20.242 - - [20/Oct/2023 09:18:52] "POST /post_chatgpt HTTP/1.1" 200 -
+2023-10-20 09:19:50,791 [DEBUG] Starting new HTTP connection (1): 121.37.20.242:16666
+2023-10-20 09:19:58,567 [DEBUG] http://121.37.20.242:16666 "POST /api/conversation/talk HTTP/1.1" 200 2332
+2023-10-20 09:19:58,568 [INFO] 121.37.20.242 - - [20/Oct/2023 09:19:58] "POST /post_chatgpt HTTP/1.1" 200 -
+2023-10-20 09:20:01,096 [DEBUG] Starting new HTTP connection (1): 121.37.20.242:16666
+2023-10-20 09:20:11,452 [DEBUG] http://121.37.20.242:16666 "POST /api/conversation/talk HTTP/1.1" 200 2814
+2023-10-20 09:20:11,453 [INFO] 121.37.20.242 - - [20/Oct/2023 09:20:11] "POST /post_chatgpt HTTP/1.1" 200 -
+2023-10-20 09:22:41,954 [DEBUG] Starting new HTTP connection (1): 121.37.20.242:16666
+2023-10-20 09:22:48,574 [DEBUG] http://121.37.20.242:16666 "POST /api/conversation/talk HTTP/1.1" 200 2041
+2023-10-20 09:22:48,575 [INFO] 121.37.20.242 - - [20/Oct/2023 09:22:48] "POST /post_chatgpt HTTP/1.1" 200 -
+2023-10-20 09:24:58,632 [DEBUG] Starting new HTTP connection (1): 121.37.20.242:16666
+2023-10-20 09:25:07,115 [DEBUG] http://121.37.20.242:16666 "POST /api/conversation/talk HTTP/1.1" 200 2425
+2023-10-20 09:25:07,116 [INFO] 121.37.20.242 - - [20/Oct/2023 09:25:07] "POST /post_chatgpt HTTP/1.1" 200 -
+2023-10-20 09:47:33,498 [DEBUG] Starting new HTTP connection (1): 121.37.20.242:16666
+2023-10-20 09:47:41,503 [DEBUG] http://121.37.20.242:16666 "POST /api/conversation/talk HTTP/1.1" 200 2657
+2023-10-20 09:47:41,504 [INFO] 121.37.20.242 - - [20/Oct/2023 09:47:41] "POST /post_chatgpt HTTP/1.1" 200 -
+2023-10-20 09:49:09,504 [DEBUG] Starting new HTTP connection (1): 121.37.20.242:16666
+2023-10-20 09:49:17,137 [DEBUG] http://121.37.20.242:16666 "POST /api/conversation/talk HTTP/1.1" 200 2468
+2023-10-20 09:49:17,139 [INFO] 121.37.20.242 - - [20/Oct/2023 09:49:17] "POST /post_chatgpt HTTP/1.1" 200 -
+2023-10-20 09:49:48,734 [DEBUG] Starting new HTTP connection (1): 121.37.20.242:16666
+2023-10-20 09:49:53,547 [DEBUG] http://121.37.20.242:16666 "POST /api/conversation/talk HTTP/1.1" 200 1422
+2023-10-20 09:49:53,548 [INFO] 121.37.20.242 - - [20/Oct/2023 09:49:53] "POST /post_chatgpt HTTP/1.1" 200 -
+2023-10-20 09:50:24,603 [DEBUG] Starting new HTTP connection (1): 121.37.20.242:16666
+2023-10-20 09:50:29,474 [DEBUG] http://121.37.20.242:16666 "POST /api/conversation/talk HTTP/1.1" 200 1525
+2023-10-20 09:50:29,475 [INFO] 121.37.20.242 - - [20/Oct/2023 09:50:29] "POST /post_chatgpt HTTP/1.1" 200 -
+2023-10-20 09:52:13,065 [DEBUG] Starting new HTTP connection (1): 121.37.20.242:16666
+2023-10-20 09:52:17,903 [DEBUG] http://121.37.20.242:16666 "POST /api/conversation/talk HTTP/1.1" 200 1478
+2023-10-20 09:52:17,904 [INFO] 121.37.20.242 - - [20/Oct/2023 09:52:17] "POST /post_chatgpt HTTP/1.1" 200 -
+2023-10-20 09:53:03,068 [DEBUG] Starting new HTTP connection (1): 121.37.20.242:16666
+2023-10-20 09:53:07,549 [DEBUG] http://121.37.20.242:16666 "POST /api/conversation/talk HTTP/1.1" 200 1106
+2023-10-20 09:53:07,550 [INFO] 121.37.20.242 - - [20/Oct/2023 09:53:07] "POST /post_chatgpt HTTP/1.1" 200 -
+2023-10-20 11:05:58,068 [INFO] 124.70.74.250 - - [20/Oct/2023 11:05:58] "[33mHEAD / HTTP/1.1[0m" 404 -
+2023-10-20 11:05:59,340 [INFO] 124.70.74.250 - - [20/Oct/2023 11:05:59] "[33mGET / HTTP/1.1[0m" 404 -
+2023-10-20 11:11:50,956 [ERROR] 123.249.90.84 - - [20/Oct/2023 11:11:50] code 400, message Bad HTTP/0.9 request type ('\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03\x19\x16\x0f.\x9dúÛvü,-,\x93öùfH\x1a£\x0ehd\x9cG')
+2023-10-20 11:11:50,956 [INFO] 123.249.90.84 - - [20/Oct/2023 11:11:50] "[31m[1m\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03\x19\x16\x0f.\x9dúÛvü,-,\x93öùfH\x1a£\x0ehd\x9cG\x85\x91\x90[0m" 400 -
+2023-10-20 11:11:51,036 [ERROR] 123.249.90.84 - - [20/Oct/2023 11:11:51] code 400, message Bad request version ('\x82Î')
+2023-10-20 11:11:51,036 [INFO] 123.249.90.84 - - [20/Oct/2023 11:11:51] "[31m[1m\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03\x8e¬Ø»\x80Ý\x1dï6ç\x15­\x8bßÅ\x9dºåä\x0b±@Ãþºc°\x90^\x86»! \x98Ê\x94Â´\x90\x7fµ\x98õ£àÌ\x83µJX\x97\x8fv \x82Î[0m" 400 -
+2023-10-20 11:11:51,114 [INFO] 123.249.90.84 - - [20/Oct/2023 11:11:51] "[33mHEAD / HTTP/1.1[0m" 404 -
+2023-10-20 11:11:52,255 [INFO] 123.249.90.84 - - [20/Oct/2023 11:11:52] "[33mGET / HTTP/1.1[0m" 404 -
+2023-10-21 21:53:55,057 [ERROR] 45.79.181.104 - - [21/Oct/2023 21:53:55] code 400, message Bad request version ('À\x14À')
+2023-10-21 21:53:55,057 [INFO] 45.79.181.104 - - [21/Oct/2023 21:53:55] "[31m[1m\x16\x03\x01\x00\x85\x01\x00\x00\x81\x03\x03ilã×\x91ÊÈ\x83!\x82\x10\x8dN\x935\x11 *\x968\x90\x94"©(õ\\9ï¬éª\x00\x00 À/À0À+À,Ì¨Ì©À\x13À\x09À\x14À[0m" 400 -
+2023-10-22 00:40:33,647 [INFO] 45.79.181.251 - - [22/Oct/2023 00:40:33] "[33mGET / HTTP/1.1[0m" 404 -
+2023-10-22 00:41:51,915 [DEBUG] Starting new HTTP connection (1): 121.37.20.242:16666
+2023-10-22 00:41:59,231 [DEBUG] http://121.37.20.242:16666 "POST /api/conversation/talk HTTP/1.1" 200 3377
+2023-10-22 00:41:59,233 [DEBUG] Starting new HTTP connection (1): 121.37.20.242:16666
+2023-10-22 00:42:00,757 [DEBUG] http://121.37.20.242:16666 "POST /api/conversation/gen_title/5c2950ea-2c00-4d3a-99b8-ae7c520deeaa HTTP/1.1" 200 42
+2023-10-22 00:42:00,758 [INFO] 121.37.20.242 - - [22/Oct/2023 00:42:00] "POST /post_chatgpt HTTP/1.1" 200 -
+2023-10-23 01:27:04,065 [DEBUG] Starting new HTTP connection (1): 121.37.20.242:16666
+2023-10-23 01:27:07,246 [DEBUG] http://121.37.20.242:16666 "POST /api/conversation/talk HTTP/1.1" 200 1026
+2023-10-23 01:27:07,248 [DEBUG] Starting new HTTP connection (1): 121.37.20.242:16666
+2023-10-23 01:27:08,064 [DEBUG] http://121.37.20.242:16666 "POST /api/conversation/gen_title/f42fc6e4-6349-495c-83e1-cc276bb89e24 HTTP/1.1" 200 39
+2023-10-23 01:27:08,064 [INFO] 121.37.20.242 - - [23/Oct/2023 01:27:08] "POST /post_chatgpt HTTP/1.1" 200 -
+2023-10-23 01:27:20,627 [DEBUG] Starting new HTTP connection (1): 121.37.20.242:16666
+2023-10-23 01:27:26,497 [DEBUG] http://121.37.20.242:16666 "POST /api/conversation/talk HTTP/1.1" 200 1422
+2023-10-23 01:27:26,502 [INFO] 121.37.20.242 - - [23/Oct/2023 01:27:26] "POST /post_chatgpt HTTP/1.1" 200 -
+2023-10-23 13:38:21,696 [ERROR] 89.248.163.224 - - [23/Oct/2023 13:38:21] code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie:')
+2023-10-23 13:38:21,697 [INFO] 89.248.163.224 - - [23/Oct/2023 13:38:21] "[31m[1m\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie: mstshash=Administr[0m" 400 -
+2023-10-23 21:54:48,842 [ERROR] 45.79.181.179 - - [23/Oct/2023 21:54:48] code 400, message Bad request version ('À\x14À')
+2023-10-23 21:54:48,842 [INFO] 45.79.181.179 - - [23/Oct/2023 21:54:48] "[31m[1m\x16\x03\x01\x00\x85\x01\x00\x00\x81\x03\x03z\x82ì6Ào\x93iua©é]\x86%²V7E\x15´ëþ°D6ÑE\x87\x91zK\x00\x00 À/À0À+À,Ì¨Ì©À\x13À\x09À\x14À[0m" 400 -
+2023-10-23 22:47:29,548 [ERROR] 89.248.163.224 - - [23/Oct/2023 22:47:29] code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie:')
+2023-10-23 22:47:29,548 [INFO] 89.248.163.224 - - [23/Oct/2023 22:47:29] "[31m[1m\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie: mstshash=Administr[0m" 400 -
+2023-10-24 02:43:05,908 [INFO] 45.33.80.243 - - [24/Oct/2023 02:43:05] "[33mGET / HTTP/1.1[0m" 404 -
+2023-10-24 03:51:29,668 [ERROR] 111.7.96.147 - - [24/Oct/2023 03:51:29] code 400, message Bad request version ('À\x13À')
+2023-10-24 03:51:29,669 [INFO] 111.7.96.147 - - [24/Oct/2023 03:51:29] "[31m[1m\x16\x03\x01\x00î\x01\x00\x00ê\x03\x03I\x06²ù¼\x99iÀYûøºe-\x83Ud]\x0e\x8d·b8´gÆÝ9dZ8f gÁ\x81i³öòË°©\x19NÖ½\x95g|püé<Z¡\x90T·é¥8'O;\x00&À+À/À,À0Ì©Ì¨À\x09À\x13À[0m" 400 -
+2023-10-24 03:51:39,744 [INFO] 111.7.96.147 - - [24/Oct/2023 03:51:39] "[33mGET / HTTP/1.1[0m" 404 -
+2023-10-24 03:52:18,742 [INFO] 36.99.136.128 - - [24/Oct/2023 03:52:18] "[33mGET / HTTP/1.1[0m" 404 -
+2023-10-24 03:52:39,378 [INFO] 36.99.136.137 - - [24/Oct/2023 03:52:39] "[33mGET / HTTP/1.1[0m" 404 -
+2023-10-24 03:52:41,296 [INFO] 111.7.96.158 - - [24/Oct/2023 03:52:41] "[33mGET / HTTP/1.1[0m" 404 -
+2023-10-24 05:30:09,465 [INFO] 123.249.103.79 - - [24/Oct/2023 05:30:09] "[33mHEAD / HTTP/1.1[0m" 404 -
+2023-10-24 05:30:09,563 [INFO] 123.249.103.79 - - [24/Oct/2023 05:30:09] "[33mGET / HTTP/1.1[0m" 404 -
+2023-10-24 06:29:24,147 [INFO] 123.249.103.79 - - [24/Oct/2023 06:29:24] "[33mGET / HTTP/1.1[0m" 404 -
+2023-10-24 06:32:56,885 [INFO] 123.249.116.30 - - [24/Oct/2023 06:32:56] "[33mGET / HTTP/1.1[0m" 404 -
+2023-10-24 06:33:24,981 [INFO] 123.249.116.30 - - [24/Oct/2023 06:33:24] "[33mGET / HTTP/1.1[0m" 404 -
+2023-10-24 07:03:40,752 [INFO] 119.3.219.91 - - [24/Oct/2023 07:03:40] "[33mGET / HTTP/1.1[0m" 404 -
+2023-10-24 07:17:57,147 [INFO] 121.36.17.218 - - [24/Oct/2023 07:17:57] "[33mGET / HTTP/1.1[0m" 404 -
+2023-10-24 07:18:19,159 [INFO] 121.36.70.110 - - [24/Oct/2023 07:18:19] "[33mGET / HTTP/1.1[0m" 404 -
+2023-10-25 00:13:20,246 [ERROR] 47.94.195.188 - - [25/Oct/2023 00:13:20] code 400, message Bad request syntax ('\x01I20100')
+2023-10-25 00:13:20,247 [INFO] 47.94.195.188 - - [25/Oct/2023 00:13:20] "[31m[1m\x01I20100[0m" 400 -
+2023-10-25 00:13:25,340 [ERROR] 47.94.195.188 - - [25/Oct/2023 00:13:25] code 400, message Bad request syntax ('\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00')
+2023-10-25 00:13:25,340 [INFO] 47.94.195.188 - - [25/Oct/2023 00:13:25] "[31m[1m\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00[0m" 400 -
+2023-10-25 00:13:30,390 [ERROR] 47.94.88.242 - - [25/Oct/2023 00:13:30] code 400, message Bad request syntax ('{\x01\x00\x1613955555555\x7f\x00\x00U\x13¥{')
+2023-10-25 00:13:30,390 [INFO] 47.94.88.242 - - [25/Oct/2023 00:13:30] "[31m[1m{\x01\x00\x1613955555555\x7f\x00\x00U\x13¥{[0m" 400 -
+2023-10-25 00:13:30,439 [ERROR] 101.201.149.164 - - [25/Oct/2023 00:13:30] code 400, message Bad HTTP/0.9 request type ('\x16\x03\x01\x00f\x01\x00\x00b\x03\x01Î+')
+2023-10-25 00:13:30,439 [INFO] 101.201.149.164 - - [25/Oct/2023 00:13:30] "[31m[1m\x16\x03\x01\x00f\x01\x00\x00b\x03\x01Î+\x0dZ;c\x11\x8e­¿yÄ;í\x88Ï!uÿ^®Ãö\x87\x14îó\x89\x80¨Úz\x00\x00\x1aÀ\x14À[0m" 400 -
+2023-10-25 00:13:35,536 [ERROR] 59.110.225.100 - - [25/Oct/2023 00:13:35] code 400, message Bad request syntax ('h\x04\x07\x00\x00\x00')
+2023-10-25 00:13:35,536 [INFO] 59.110.225.100 - - [25/Oct/2023 00:13:35] "[31m[1mh\x04\x07\x00\x00\x00[0m" 400 -
+2023-10-25 00:13:40,596 [ERROR] 47.94.156.247 - - [25/Oct/2023 00:13:40] code 400, message Bad request version ('1\x01\x11ý~')
+2023-10-25 00:13:40,596 [INFO] 47.94.156.247 - - [25/Oct/2023 00:13:40] "[31m[1m~\x02\x00\x002\x01\x163\x90Tb\x00\x0f\x00\x00\x00\x00\x00\x0c\x00\x03\x02\x11ÁÏ\x06\x9eÏë\x01S\x01e\x00F\x19\x06%\x00)"\x01\x04\x00\x02`å\x03\x02\x00\x00%\x04\x00\x00\x00\x000\x01\x1d1\x01\x11ý~[0m" 400 -
+2023-10-25 00:13:45,635 [ERROR] 59.110.232.250 - - [25/Oct/2023 00:13:45] code 400, message Bad request version ('\x19\x00\x010"\x19\x00\x00@9#\x00\x00\x05P8\x12\x12h\x03\x83\x97')
+2023-10-25 00:13:45,637 [INFO] 59.110.232.250 - - [25/Oct/2023 00:13:45] "[31m[1m~~\x01\x00\x10\x10\x00\x01 \x002\x00+\x02\x00\x0c \x07$\x17#Iññ\x00\x10\x10\x00\x01Hðð \x07$\x17# \x19\x00\x010"\x19\x00\x00@9#\x00\x00\x05P8\x12\x12h\x03\x83\x97[0m" 400 -
+2023-10-25 00:13:50,683 [ERROR] 47.94.156.247 - - [25/Oct/2023 00:13:50] code 400, message Bad request version ('\x03\x10(\x01\x00\x00Üú\x16')
+2023-10-25 00:13:50,687 [INFO] 47.94.156.247 - - [25/Oct/2023 00:13:50] "[31m[1mh\x1c\x00\x81\x03CGF\x14\x00Ï¤\x01\x00\x01\x00\x00\x07à\x0b\x09\x03\x10(\x01\x00\x00Üú\x16[0m" 400 -
+2023-10-25 00:13:50,730 [ERROR] 47.94.232.171 - - [25/Oct/2023 00:13:50] code 400, message Bad request version ('1')
+2023-10-25 00:13:50,730 [INFO] 47.94.232.171 - - [25/Oct/2023 00:13:50] "[31m[1mñõêõ\x00\x00_\x00\x00\x00\x00\x00\x00\x00\x00\x00K\x00\x00\x00120.195.147.114\x09IP\x09USER\x09LOGON\x09QWRtaW4=\x09QWRtaW4=\x09\x0965536\x09UTF-8\x09805306367\x091[0m" 400 -
+2023-10-25 00:13:55,835 [ERROR] 47.93.52.21 - - [25/Oct/2023 00:13:55] code 400, message Bad request syntax ('PP\x82}\x08\x00\x00\x00è\x03\x17ü\x00\x00\x00\x00')
+2023-10-25 00:13:55,837 [INFO] 47.93.52.21 - - [25/Oct/2023 00:13:55] "[31m[1mPP\x82}\x08\x00\x00\x00è\x03\x17ü\x00\x00\x00\x00[0m" 400 -
+2023-10-25 00:14:00,879 [ERROR] 123.56.19.178 - - [25/Oct/2023 00:14:00] code 400, message Bad request version ('Q')
+2023-10-25 00:14:00,881 [INFO] 123.56.19.178 - - [25/Oct/2023 00:14:00] "[31m[1m\x00\x00\x00TZ\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x05\x01=K\x00\x00\x01\x01\x10\x1e¨À\x00\x0c)1p\x9f/\x00N7ç\x8cê\x02\x19½py¢¹,º+Ì\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00ø\x19øÊ\x19B\x12\x95{]j^ô×\x0bQ[0m" 400 -
+2023-10-25 00:14:00,935 [INFO] 47.93.243.185 - - [25/Oct/2023 00:14:00] "[33mGET / HTTP/1.0[0m" 404 -
+2023-10-25 00:14:01,043 [INFO] 101.200.42.158 - - [25/Oct/2023 00:14:01] "[33mGET /home.htm HTTP/1.0[0m" 404 -
+2023-10-25 00:14:06,148 [ERROR] 59.110.232.250 - - [25/Oct/2023 00:14:06] code 400, message Bad request syntax ('GIOP\x01\x00\x01\x00$\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x01\x00\x00\x00\x06\x00\x00\x00abcdef\x00\x00\x04\x00\x00\x00get\x00\x00\x00\x00\x00')
+2023-10-25 00:14:06,149 [INFO] 59.110.232.250 - - [25/Oct/2023 00:14:06] "[31m[1mGIOP\x01\x00\x01\x00$\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x01\x00\x00\x00\x06\x00\x00\x00abcdef\x00\x00\x04\x00\x00\x00get\x00\x00\x00\x00\x00[0m" 400 -
+2023-10-25 00:14:06,193 [INFO] 47.93.243.185 - - [25/Oct/2023 00:14:06] "[33mGET /system/login.em HTTP/1.0[0m" 404 -
+2023-10-25 00:14:06,284 [ERROR] 39.107.70.253 - - [25/Oct/2023 00:14:06] code 400, message Bad request syntax ('\x01I20100')
+2023-10-25 00:14:06,284 [INFO] 39.107.70.253 - - [25/Oct/2023 00:14:06] "[31m[1m\x01I20100[0m" 400 -
+2023-10-25 00:14:06,401 [INFO] 59.110.157.163 - - [25/Oct/2023 00:14:06] "[33mGET / HTTP/1.0[0m" 404 -
+2023-10-25 00:14:06,516 [INFO] 47.94.236.174 - - [25/Oct/2023 00:14:06] "[33mGET / HTTP/1.0[0m" 404 -
+2023-10-25 00:14:11,372 [ERROR] 39.107.70.253 - - [25/Oct/2023 00:14:11] code 400, message Bad request syntax ('\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00')
+2023-10-25 00:14:11,372 [INFO] 39.107.70.253 - - [25/Oct/2023 00:14:11] "[31m[1m\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00[0m" 400 -
+2023-10-25 00:14:16,408 [ERROR] 39.107.70.253 - - [25/Oct/2023 00:14:16] code 400, message Bad request syntax ('{\x01\x00\x1613955555555\x7f\x00\x00U\x13¥{')
+2023-10-25 00:14:16,410 [INFO] 39.107.70.253 - - [25/Oct/2023 00:14:16] "[31m[1m{\x01\x00\x1613955555555\x7f\x00\x00U\x13¥{[0m" 400 -
+2023-10-25 00:14:16,449 [ERROR] 39.107.70.253 - - [25/Oct/2023 00:14:16] code 400, message Bad HTTP/0.9 request type ('\x16\x03\x01\x00f\x01\x00\x00b\x03\x01Î+')
+2023-10-25 00:14:16,450 [INFO] 39.107.70.253 - - [25/Oct/2023 00:14:16] "[31m[1m\x16\x03\x01\x00f\x01\x00\x00b\x03\x01Î+\x0dZ;c\x11\x8e­¿yÄ;í\x88Ï!uÿ^®Ãö\x87\x14îó\x89\x80¨Úz\x00\x00\x1aÀ\x14À[0m" 400 -
+2023-10-25 00:14:21,543 [ERROR] 39.107.70.253 - - [25/Oct/2023 00:14:21] code 400, message Bad request syntax ('h\x04\x07\x00\x00\x00')
+2023-10-25 00:14:21,543 [INFO] 39.107.70.253 - - [25/Oct/2023 00:14:21] "[31m[1mh\x04\x07\x00\x00\x00[0m" 400 -
+2023-10-25 00:14:26,579 [ERROR] 39.107.70.253 - - [25/Oct/2023 00:14:26] code 400, message Bad request version ('1\x01\x11ý~')
+2023-10-25 00:14:26,580 [INFO] 39.107.70.253 - - [25/Oct/2023 00:14:26] "[31m[1m~\x02\x00\x002\x01\x163\x90Tb\x00\x0f\x00\x00\x00\x00\x00\x0c\x00\x03\x02\x11ÁÏ\x06\x9eÏë\x01S\x01e\x00F\x19\x06%\x00)"\x01\x04\x00\x02`å\x03\x02\x00\x00%\x04\x00\x00\x00\x000\x01\x1d1\x01\x11ý~[0m" 400 -
+2023-10-25 00:14:31,621 [ERROR] 39.107.70.253 - - [25/Oct/2023 00:14:31] code 400, message Bad request version ('\x19\x00\x010"\x19\x00\x00@9#\x00\x00\x05P8\x12\x12h\x03\x83\x97')
+2023-10-25 00:14:31,623 [INFO] 39.107.70.253 - - [25/Oct/2023 00:14:31] "[31m[1m~~\x01\x00\x10\x10\x00\x01 \x002\x00+\x02\x00\x0c \x07$\x17#Iññ\x00\x10\x10\x00\x01Hðð \x07$\x17# \x19\x00\x010"\x19\x00\x00@9#\x00\x00\x05P8\x12\x12h\x03\x83\x97[0m" 400 -
+2023-10-25 00:14:36,629 [ERROR] 123.56.216.11 - - [25/Oct/2023 00:14:36] code 400, message Bad request version ("8\xad\x1aU\x00\x9e\x13\x02\x13\x03\x13\x01\x003\x009\x005\x00/À,À0\x00£\x00\x9fÌ©Ì¨ÌªÀ¯À\xadÀ£À\x9fÀ]ÀaÀWÀSÀ+À/\x00¢\x00\x9eÀ®À¬À¢À\x9eÀ\\À`ÀVÀRÀ$À(\x00k\x00jÀsÀw\x00Ä\x00ÃÀ#À'\x00g\x00@ÀrÀv\x00¾\x00½À")
+2023-10-25 00:14:36,629 [INFO] 123.56.216.11 - - [25/Oct/2023 00:14:36] "[31m[1m\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03KÄEº\x8fYL©hüÿ\x0b\x83Ü\x19C>º½Ó^ô0á\x05¼\x97[Uz\x1a\x05 Ã×½Ûô"p.\x00\x80\x90dfd@\x89¨Í»A\x0dÂ\x13\x12\x9aâ8\x0b8­\x1aU\x00\x9e\x13\x02\x13\x03\x13\x01\x003\x009\x005\x00/À,À0\x00£\x00\x9fÌ©Ì¨ÌªÀ¯À­À£À\x9fÀ]ÀaÀWÀSÀ+À/\x00¢\x00\x9eÀ®À¬À¢À\x9eÀ\\À`ÀVÀRÀ$À(\x00k\x00jÀsÀw\x00Ä\x00ÃÀ#À'\x00g\x00@ÀrÀv\x00¾\x00½À[0m" 400 -
+2023-10-25 00:14:36,675 [ERROR] 39.107.70.253 - - [25/Oct/2023 00:14:36] code 400, message Bad request version ('\x03\x10(\x01\x00\x00Üú\x16')
+2023-10-25 00:14:36,675 [INFO] 39.107.70.253 - - [25/Oct/2023 00:14:36] "[31m[1mh\x1c\x00\x81\x03CGF\x14\x00Ï¤\x01\x00\x01\x00\x00\x07à\x0b\x09\x03\x10(\x01\x00\x00Üú\x16[0m" 400 -
+2023-10-25 00:14:36,714 [ERROR] 39.107.70.253 - - [25/Oct/2023 00:14:36] code 400, message Bad request version ('1')
+2023-10-25 00:14:36,714 [INFO] 39.107.70.253 - - [25/Oct/2023 00:14:36] "[31m[1mñõêõ\x00\x00_\x00\x00\x00\x00\x00\x00\x00\x00\x00K\x00\x00\x00120.195.147.114\x09IP\x09USER\x09LOGON\x09QWRtaW4=\x09QWRtaW4=\x09\x0965536\x09UTF-8\x09805306367\x091[0m" 400 -
+2023-10-25 00:14:41,797 [ERROR] 39.107.70.253 - - [25/Oct/2023 00:14:41] code 400, message Bad request syntax ('PP\x82}\x08\x00\x00\x00è\x03\x17ü\x00\x00\x00\x00')
+2023-10-25 00:14:41,797 [INFO] 39.107.70.253 - - [25/Oct/2023 00:14:41] "[31m[1mPP\x82}\x08\x00\x00\x00è\x03\x17ü\x00\x00\x00\x00[0m" 400 -
+2023-10-25 00:14:42,367 [INFO] 59.110.124.131 - - [25/Oct/2023 00:14:42] "[33mGET / HTTP/1.1[0m" 404 -
+2023-10-25 00:14:46,844 [ERROR] 39.107.70.253 - - [25/Oct/2023 00:14:46] code 400, message Bad request version ('Q')
+2023-10-25 00:14:46,844 [INFO] 39.107.70.253 - - [25/Oct/2023 00:14:46] "[31m[1m\x00\x00\x00TZ\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x05\x01=K\x00\x00\x01\x01\x10\x1e¨À\x00\x0c)1p\x9f/\x00N7ç\x8cê\x02\x19½py¢¹,º+Ì\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00ø\x19øÊ\x19B\x12\x95{]j^ô×\x0bQ[0m" 400 -
+2023-10-25 00:14:46,893 [INFO] 39.107.70.253 - - [25/Oct/2023 00:14:46] "[33mGET / HTTP/1.0[0m" 404 -
+2023-10-25 00:14:46,997 [INFO] 39.107.70.253 - - [25/Oct/2023 00:14:46] "[33mGET /home.htm HTTP/1.0[0m" 404 -
+2023-10-25 00:14:52,106 [ERROR] 39.107.70.253 - - [25/Oct/2023 00:14:52] code 400, message Bad request syntax ('GIOP\x01\x00\x01\x00$\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x01\x00\x00\x00\x06\x00\x00\x00abcdef\x00\x00\x04\x00\x00\x00get\x00\x00\x00\x00\x00')
+2023-10-25 00:14:52,106 [INFO] 39.107.70.253 - - [25/Oct/2023 00:14:52] "[31m[1mGIOP\x01\x00\x01\x00$\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x01\x00\x00\x00\x06\x00\x00\x00abcdef\x00\x00\x04\x00\x00\x00get\x00\x00\x00\x00\x00[0m" 400 -
+2023-10-25 00:14:52,144 [INFO] 39.107.70.253 - - [25/Oct/2023 00:14:52] "[33mGET /system/login.em HTTP/1.0[0m" 404 -
+2023-10-25 00:14:52,345 [INFO] 39.107.70.253 - - [25/Oct/2023 00:14:52] "[33mGET / HTTP/1.0[0m" 404 -
+2023-10-25 00:14:52,443 [INFO] 39.107.70.253 - - [25/Oct/2023 00:14:52] "[33mGET / HTTP/1.0[0m" 404 -
+2023-10-25 00:15:22,422 [ERROR] 39.107.70.253 - - [25/Oct/2023 00:15:22] code 400, message Bad request version ("\x05&\x7fÒ\x12g¹\x96îç±Û\x10i=\xadRe&\x8bz\x84sý\x8bf\x91h4Áö¸\x00\x9e\x13\x02\x13\x03\x13\x01\x003\x009\x005\x00/À,À0\x00£\x00\x9fÌ©Ì¨ÌªÀ¯À\xadÀ£À\x9fÀ]ÀaÀWÀSÀ+À/\x00¢\x00\x9eÀ®À¬À¢À\x9eÀ\\À`ÀVÀRÀ$À(\x00k\x00jÀsÀw\x00Ä\x00ÃÀ#À'\x00g\x00@ÀrÀv\x00¾\x00½À")
+2023-10-25 00:15:22,422 [INFO] 39.107.70.253 - - [25/Oct/2023 00:15:22] "[31m[1m\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03\x19z¶O+X8á\x1dÔ\x0fÄÓ³\x9eø\x92;|´\x10\x8ckÊ#Îì×T;pÑ \x05&\x7fÒ\x12g¹\x96îç±Û\x10i=­Re&\x8bz\x84sý\x8bf\x91h4Áö¸\x00\x9e\x13\x02\x13\x03\x13\x01\x003\x009\x005\x00/À,À0\x00£\x00\x9fÌ©Ì¨ÌªÀ¯À­À£À\x9fÀ]ÀaÀWÀSÀ+À/\x00¢\x00\x9eÀ®À¬À¢À\x9eÀ\\À`ÀVÀRÀ$À(\x00k\x00jÀsÀw\x00Ä\x00ÃÀ#À'\x00g\x00@ÀrÀv\x00¾\x00½À[0m" 400 -
+2023-10-25 00:15:28,355 [INFO] 39.107.70.253 - - [25/Oct/2023 00:15:28] "[33mGET / HTTP/1.1[0m" 404 -
+2023-10-25 03:49:50,397 [INFO] 124.70.70.4 - - [25/Oct/2023 03:49:50] "[33mHEAD /home.htm HTTP/1.1[0m" 404 -
+2023-10-25 03:49:50,498 [INFO] 124.70.70.4 - - [25/Oct/2023 03:49:50] "[33mGET /home.htm HTTP/1.1[0m" 404 -
+2023-10-25 10:45:01,277 [ERROR] 89.248.163.96 - - [25/Oct/2023 10:45:01] code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie:')
+2023-10-25 10:45:01,277 [INFO] 89.248.163.96 - - [25/Oct/2023 10:45:01] "[31m[1m\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie: mstshash=Administr[0m" 400 -
+2023-10-25 10:45:04,341 [ERROR] 89.248.163.96 - - [25/Oct/2023 10:45:04] code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie:')
+2023-10-25 10:45:04,342 [INFO] 89.248.163.96 - - [25/Oct/2023 10:45:04] "[31m[1m\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie: mstshash=Administr[0m" 400 -
+2023-10-25 10:45:08,240 [ERROR] 89.248.163.96 - - [25/Oct/2023 10:45:08] code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie:')
+2023-10-25 10:45:08,241 [INFO] 89.248.163.96 - - [25/Oct/2023 10:45:08] "[31m[1m\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie: mstshash=Administr[0m" 400 -
+2023-10-25 10:45:15,658 [ERROR] 89.248.163.96 - - [25/Oct/2023 10:45:15] code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie:')
+2023-10-25 10:45:15,658 [INFO] 89.248.163.96 - - [25/Oct/2023 10:45:15] "[31m[1m\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie: mstshash=Administr[0m" 400 -
+2023-10-25 19:25:14,676 [ERROR] 89.248.163.96 - - [25/Oct/2023 19:25:14] code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie:')
+2023-10-25 19:25:14,676 [INFO] 89.248.163.96 - - [25/Oct/2023 19:25:14] "[31m[1m\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie: mstshash=Administr[0m" 400 -
+2023-10-25 19:25:16,696 [ERROR] 89.248.163.96 - - [25/Oct/2023 19:25:16] code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie:')
+2023-10-25 19:25:16,696 [INFO] 89.248.163.96 - - [25/Oct/2023 19:25:16] "[31m[1m\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie: mstshash=Administr[0m" 400 -
+2023-10-25 19:25:19,379 [ERROR] 89.248.163.96 - - [25/Oct/2023 19:25:19] code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie:')
+2023-10-25 19:25:19,379 [INFO] 89.248.163.96 - - [25/Oct/2023 19:25:19] "[31m[1m\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie: mstshash=Administr[0m" 400 -
+2023-10-25 19:25:24,577 [ERROR] 89.248.163.96 - - [25/Oct/2023 19:25:24] code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie:')
+2023-10-25 19:25:24,577 [INFO] 89.248.163.96 - - [25/Oct/2023 19:25:24] "[31m[1m\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie: mstshash=Administr[0m" 400 -
+2023-10-25 21:53:33,784 [ERROR] 192.155.90.118 - - [25/Oct/2023 21:53:33] code 400, message Bad request version ('À\x14À')
+2023-10-25 21:53:33,786 [INFO] 192.155.90.118 - - [25/Oct/2023 21:53:33] "[31m[1m\x16\x03\x01\x00\x85\x01\x00\x00\x81\x03\x039\x92\x0eåGÆZÇj\x93ôVbr¾k,®#\x07b\x97Ïéº&\x12\x0c\x16\x9f2\x0f\x00\x00 À/À0À+À,Ì¨Ì©À\x13À\x09À\x14À[0m" 400 -
+2023-10-25 22:18:00,383 [INFO] 45.79.168.172 - - [25/Oct/2023 22:18:00] "[33mGET / HTTP/1.1[0m" 404 -
+2023-10-25 22:18:24,283 [INFO] 45.79.181.179 - - [25/Oct/2023 22:18:24] "[33mGET / HTTP/1.1[0m" 404 -
+2023-10-26 05:40:44,401 [ERROR] 111.7.96.149 - - [26/Oct/2023 05:40:44] code 400, message Bad request version ('À\x13À')
+2023-10-26 05:40:44,401 [INFO] 111.7.96.149 - - [26/Oct/2023 05:40:44] "[31m[1m\x16\x03\x01\x00î\x01\x00\x00ê\x03\x03I\x06²ù¼\x99iÀYûøºe-\x83Ud]\x0e\x8d·b8´gÆÝ9dZ8f gÁ\x81i³öòË°©\x19NÖ½\x95g|püé<Z¡\x90T·é¥8'O;\x00&À+À/À,À0Ì©Ì¨À\x09À\x13À[0m" 400 -
+2023-10-26 05:40:54,476 [INFO] 111.7.96.149 - - [26/Oct/2023 05:40:54] "[33mGET / HTTP/1.1[0m" 404 -
+2023-10-26 08:30:46,020 [INFO] 117.78.8.61 - - [26/Oct/2023 08:30:46] "[33mHEAD / HTTP/1.1[0m" 404 -
+2023-10-26 08:30:46,194 [INFO] 117.78.8.61 - - [26/Oct/2023 08:30:46] "[33mGET / HTTP/1.1[0m" 404 -
+2023-10-26 11:18:24,611 [INFO] 36.99.136.137 - - [26/Oct/2023 11:18:24] "[33mGET / HTTP/1.1[0m" 404 -
+2023-10-26 11:19:09,172 [INFO] 111.7.96.157 - - [26/Oct/2023 11:19:09] "[33mGET / HTTP/1.1[0m" 404 -
+2023-10-26 11:20:08,141 [INFO] 111.7.96.165 - - [26/Oct/2023 11:20:08] "[33mGET / HTTP/1.1[0m" 404 -
+2023-10-26 11:20:57,315 [INFO] 111.7.100.34 - - [26/Oct/2023 11:20:57] "[33mGET / HTTP/1.1[0m" 404 -
+2023-10-26 14:34:04,722 [INFO] 119.3.219.91 - - [26/Oct/2023 14:34:04] "[33mGET / HTTP/1.1[0m" 404 -
+2023-10-26 14:34:31,491 [INFO] 119.3.219.91 - - [26/Oct/2023 14:34:31] "[33mGET / HTTP/1.1[0m" 404 -
+2023-10-26 14:39:59,320 [INFO] 121.36.70.110 - - [26/Oct/2023 14:39:59] "[33mGET / HTTP/1.1[0m" 404 -
+2023-10-26 22:26:36,923 [ERROR] 89.248.165.54 - - [26/Oct/2023 22:26:36] code 400, message Bad request syntax ('\x03\x00\x00\x13\x0eà\x00\x00\x00\x00\x00\x01\x00\x08\x00\x02\x00\x00\x00')
+2023-10-26 22:26:36,923 [INFO] 89.248.165.54 - - [26/Oct/2023 22:26:36] "[31m[1m\x03\x00\x00\x13\x0eà\x00\x00\x00\x00\x00\x01\x00\x08\x00\x02\x00\x00\x00[0m" 400 -
+2023-10-27 01:11:10,854 [ERROR] 106.75.60.240 - - [27/Oct/2023 01:11:10] code 400, message Bad request version ('À\x13À')
+2023-10-27 01:11:10,855 [INFO] 106.75.60.240 - - [27/Oct/2023 01:11:10] "[31m[1m\x16\x03\x01\x00î\x01\x00\x00ê\x03\x03î\x84\x12ðç\x88\x89ò,ü ª&ÅAÛ\x8bÙ{\x84Ó0\x9cð\x06d\x85Ù\x85\x8c\x96  ó«\x89B8Îy\x0c»ßÍ\x018\x10\x08\x18±\x8c\x9e_´\x06\x9bp:.\x93*VÔ\x83ï\x00&À+À/À,À0Ì©Ì¨À\x09À\x13À[0m" 400 -
+2023-10-27 01:11:10,939 [ERROR] 106.75.60.240 - - [27/Oct/2023 01:11:10] code 400, message Bad request version ('À\x13À')
+2023-10-27 01:11:10,939 [INFO] 106.75.60.240 - - [27/Oct/2023 01:11:10] "[31m[1m\x16\x03\x01\x00î\x01\x00\x00ê\x03\x033\x8eg\x8a®H\x0bPx\x80\x9d\x11íÉÄí\x91\x8e³¿Ôç«âÏ_Ñ}\x8aédÝ ×kmbõã`­\x12V~`~r\x02e\x8fò85Ò\x92ßõ\x12\x1b!ßÞ\x1d \x9a\x00&À+À/À,À0Ì©Ì¨À\x09À\x13À[0m" 400 -
+2023-10-27 01:11:11,023 [INFO] 106.75.60.240 - - [27/Oct/2023 01:11:11] "[33mGET / HTTP/1.1[0m" 404 -
+2023-10-27 01:11:32,304 [INFO] 119.3.251.57 - - [27/Oct/2023 01:11:32] "[33mGET / HTTP/1.1[0m" 404 -
+2023-10-27 01:13:00,590 [INFO] 106.75.128.210 - - [27/Oct/2023 01:13:00] "[33mGET / HTTP/1.1[0m" 404 -
+2023-10-27 01:13:00,602 [INFO] 106.75.128.210 - - [27/Oct/2023 01:13:00] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2023-10-27 02:18:28,221 [DEBUG] Starting new HTTP connection (1): 121.37.20.242:16666
+2023-10-27 02:18:31,947 [DEBUG] http://121.37.20.242:16666 "POST /api/conversation/talk HTTP/1.1" 200 1201
+2023-10-27 02:18:31,949 [DEBUG] Starting new HTTP connection (1): 121.37.20.242:16666
+2023-10-27 02:18:33,527 [DEBUG] http://121.37.20.242:16666 "POST /api/conversation/gen_title/933f7310-aa13-4be8-a550-e67e8b86f689 HTTP/1.1" 200 31
+2023-10-27 02:18:33,528 [INFO] 121.37.20.242 - - [27/Oct/2023 02:18:33] "POST /post_chatgpt HTTP/1.1" 200 -
+2023-10-27 02:19:12,140 [DEBUG] Starting new HTTP connection (1): 121.37.20.242:16666
+2023-10-27 02:19:16,838 [DEBUG] http://121.37.20.242:16666 "POST /api/conversation/talk HTTP/1.1" 200 1701
+2023-10-27 02:19:16,844 [INFO] 121.37.20.242 - - [27/Oct/2023 02:19:16] "POST /post_chatgpt HTTP/1.1" 200 -
+2023-10-27 02:19:51,221 [DEBUG] Starting new HTTP connection (1): 121.37.20.242:16666
+2023-10-27 02:19:53,689 [DEBUG] http://121.37.20.242:16666 "POST /api/conversation/talk HTTP/1.1" 200 949
+2023-10-27 02:19:53,690 [INFO] 121.37.20.242 - - [27/Oct/2023 02:19:53] "POST /post_chatgpt HTTP/1.1" 200 -
+2023-10-27 02:20:22,506 [DEBUG] Starting new HTTP connection (1): 121.37.20.242:16666
+2023-10-27 02:20:25,794 [DEBUG] http://121.37.20.242:16666 "POST /api/conversation/talk HTTP/1.1" 200 945
+2023-10-27 02:20:25,795 [INFO] 121.37.20.242 - - [27/Oct/2023 02:20:25] "POST /post_chatgpt HTTP/1.1" 200 -
+2023-10-27 07:57:10,190 [ERROR] 89.248.163.212 - - [27/Oct/2023 07:57:10] code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie:')
+2023-10-27 07:57:10,190 [INFO] 89.248.163.212 - - [27/Oct/2023 07:57:10] "[31m[1m\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie: mstshash=Administr[0m" 400 -
+2023-10-27 12:00:53,758 [ERROR] 89.248.163.224 - - [27/Oct/2023 12:00:53] code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie:')
+2023-10-27 12:00:53,758 [INFO] 89.248.163.224 - - [27/Oct/2023 12:00:53] "[31m[1m\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie: mstshash=Administr[0m" 400 -
+2023-10-27 21:20:49,748 [ERROR] 89.248.163.224 - - [27/Oct/2023 21:20:49] code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie:')
+2023-10-27 21:20:49,749 [INFO] 89.248.163.224 - - [27/Oct/2023 21:20:49] "[31m[1m\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie: mstshash=Administr[0m" 400 -
+2023-10-27 21:50:54,406 [ERROR] 45.79.181.251 - - [27/Oct/2023 21:50:54] code 400, message Bad request version ('À\x14À')
+2023-10-27 21:50:54,406 [INFO] 45.79.181.251 - - [27/Oct/2023 21:50:54] "[31m[1m\x16\x03\x01\x00\x85\x01\x00\x00\x81\x03\x03Ú@\x02\x86ÁXÕ\x92ÅË©ý\x94\x02ó\x1e\x14æ\x1d\x0foÔy1°Û!\x89\x94¾N¿\x00\x00 À/À0À+À,Ì¨Ì©À\x13À\x09À\x14À[0m" 400 -
+2023-10-27 22:38:02,282 [INFO] 192.155.90.118 - - [27/Oct/2023 22:38:02] "[33mGET / HTTP/1.1[0m" 404 -
+2023-10-28 01:11:37,269 [INFO] 119.3.251.57 - - [28/Oct/2023 01:11:37] "[33mGET / HTTP/1.1[0m" 404 -
+2023-10-28 14:12:35,690 [DEBUG] Starting new HTTP connection (1): 121.37.20.242:16666
+2023-10-29 01:11:44,394 [INFO] 119.3.251.57 - - [29/Oct/2023 01:11:44] "[33mGET / HTTP/1.1[0m" 404 -
+2023-10-29 21:52:45,926 [ERROR] 172.104.11.4 - - [29/Oct/2023 21:52:45] code 400, message Bad request version ('À\x14À')
+2023-10-29 21:52:45,926 [INFO] 172.104.11.4 - - [29/Oct/2023 21:52:45] "[31m[1m\x16\x03\x01\x00\x85\x01\x00\x00\x81\x03\x03ÁärËà0+íØÕe¿\x1d/¯Î¶Zî\x01Áa ¦\x12ô¥)ÛHðK\x00\x00 À/À0À+À,Ì¨Ì©À\x13À\x09À\x14À[0m" 400 -
+2023-10-30 01:11:49,312 [INFO] 119.3.251.57 - - [30/Oct/2023 01:11:49] "[33mGET / HTTP/1.1[0m" 404 -
+2023-10-30 05:13:46,455 [ERROR] 89.248.163.96 - - [30/Oct/2023 05:13:46] code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie:')
+2023-10-30 05:13:46,456 [INFO] 89.248.163.96 - - [30/Oct/2023 05:13:46] "[31m[1m\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie: mstshash=Administr[0m" 400 -
+2023-10-30 21:39:45,699 [ERROR] 89.248.163.96 - - [30/Oct/2023 21:39:45] code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie:')
+2023-10-30 21:39:45,699 [INFO] 89.248.163.96 - - [30/Oct/2023 21:39:45] "[31m[1m\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie: mstshash=Administr[0m" 400 -
+2023-10-31 01:11:49,506 [INFO] 119.3.251.57 - - [31/Oct/2023 01:11:49] "[33mGET / HTTP/1.1[0m" 404 -
+2023-10-31 21:52:02,341 [ERROR] 192.155.90.118 - - [31/Oct/2023 21:52:02] code 400, message Bad request version ('À\x14À')
+2023-10-31 21:52:02,341 [INFO] 192.155.90.118 - - [31/Oct/2023 21:52:02] "[31m[1m\x16\x03\x01\x00\x85\x01\x00\x00\x81\x03\x03§qP\x8c®\x88÷\x05«òë½£½A\x11àõ\x98«Eó\x8c0ä\x1d6v-Vjw\x00\x00 À/À0À+À,Ì¨Ì©À\x13À\x09À\x14À[0m" 400 -
+2023-10-31 22:34:51,954 [INFO] 69.164.217.74 - - [31/Oct/2023 22:34:51] "[33mGET / HTTP/1.1[0m" 404 -
+2023-10-31 22:40:58,434 [INFO] 172.104.11.4 - - [31/Oct/2023 22:40:58] "[33mGET / HTTP/1.1[0m" 404 -
+2023-11-01 01:35:55,806 [INFO] 124.70.70.4 - - [01/Nov/2023 01:35:55] "[33mHEAD / HTTP/1.1[0m" 404 -
+2023-11-01 01:35:55,938 [INFO] 124.70.70.4 - - [01/Nov/2023 01:35:55] "[33mGET / HTTP/1.1[0m" 404 -
+2023-11-01 01:57:32,561 [INFO] 119.3.219.91 - - [01/Nov/2023 01:57:32] "[33mHEAD / HTTP/1.1[0m" 404 -
+2023-11-01 01:57:32,814 [INFO] 119.3.219.91 - - [01/Nov/2023 01:57:32] "[33mGET / HTTP/1.1[0m" 404 -
+2023-11-01 03:36:25,599 [ERROR] 89.248.163.212 - - [01/Nov/2023 03:36:25] code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie:')
+2023-11-01 03:36:25,599 [INFO] 89.248.163.212 - - [01/Nov/2023 03:36:25] "[31m[1m\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie: mstshash=Administr[0m" 400 -
+2023-11-01 21:07:38,651 [ERROR] 89.248.163.212 - - [01/Nov/2023 21:07:38] code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie:')
+2023-11-01 21:07:38,651 [INFO] 89.248.163.212 - - [01/Nov/2023 21:07:38] "[31m[1m\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie: mstshash=Administr[0m" 400 -
+2023-11-01 21:51:44,466 [ERROR] 192.155.90.118 - - [01/Nov/2023 21:51:44] code 400, message Bad HTTP/0.9 request type ('\x16\x03\x01\x00')
+2023-11-01 21:51:44,466 [INFO] 192.155.90.118 - - [01/Nov/2023 21:51:44] "[31m[1m\x16\x03\x01\x00\x85\x01\x00\x00\x81\x03\x03X\x7f\x93\x84»e\x1aÛ¶\x04\x82Ó\x8fb[0m" 400 -
+2023-11-02 09:58:10,104 [ERROR] 89.248.163.96 - - [02/Nov/2023 09:58:10] code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie:')
+2023-11-02 09:58:10,104 [INFO] 89.248.163.96 - - [02/Nov/2023 09:58:10] "[31m[1m\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie: mstshash=Administr[0m" 400 -
+2023-11-02 11:54:00,142 [DEBUG] Starting new HTTP connection (1): 121.37.20.242:16666
+2023-11-02 11:54:02,998 [DEBUG] http://121.37.20.242:16666 "POST /api/conversation/talk HTTP/1.1" 401 85
+2023-11-02 11:54:03,001 [INFO] 121.37.20.242 - - [02/Nov/2023 11:54:03] "POST /post_chatgpt HTTP/1.1" 200 -
+2023-11-02 11:54:09,075 [DEBUG] Starting new HTTP connection (1): 121.37.20.242:16666
+2023-11-02 11:54:10,399 [DEBUG] http://121.37.20.242:16666 "POST /api/conversation/talk HTTP/1.1" 401 85
+2023-11-02 11:54:10,400 [INFO] 121.37.20.242 - - [02/Nov/2023 11:54:10] "POST /post_chatgpt HTTP/1.1" 200 -
+2023-11-03 04:03:34,547 [ERROR] 89.248.163.212 - - [03/Nov/2023 04:03:34] code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie:')
+2023-11-03 04:03:34,547 [INFO] 89.248.163.212 - - [03/Nov/2023 04:03:34] "[31m[1m\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie: mstshash=Administr[0m" 400 -
+2023-11-03 10:52:09,904 [ERROR] 89.248.163.212 - - [03/Nov/2023 10:52:09] code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie:')
+2023-11-03 10:52:09,905 [INFO] 89.248.163.212 - - [03/Nov/2023 10:52:09] "[31m[1m\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie: mstshash=Administr[0m" 400 -
+2023-11-03 21:51:37,883 [ERROR] 172.105.128.13 - - [03/Nov/2023 21:51:37] code 400, message Bad request version ('À\x14À')
+2023-11-03 21:51:37,883 [INFO] 172.105.128.13 - - [03/Nov/2023 21:51:37] "[31m[1m\x16\x03\x01\x00\x85\x01\x00\x00\x81\x03\x03¸rÍ\x1eÚ¢¡©ÏtÆ×\x0dô\x0cmÙ·$\x1bbê\x98Aw÷ö\x11à\x82ÆK\x00\x00 À/À0À+À,Ì¨Ì©À\x13À\x09À\x14À[0m" 400 -
+2023-11-03 22:36:52,888 [INFO] 45.79.181.179 - - [03/Nov/2023 22:36:52] "[33mGET / HTTP/1.1[0m" 404 -
+2023-11-04 01:30:54,022 [INFO] 117.78.8.61 - - [04/Nov/2023 01:30:54] "[33mHEAD / HTTP/1.1[0m" 404 -
+2023-11-04 01:30:54,123 [INFO] 117.78.8.61 - - [04/Nov/2023 01:30:54] "[33mGET / HTTP/1.1[0m" 404 -
+2023-11-04 04:03:01,383 [ERROR] 123.249.111.22 - - [04/Nov/2023 04:03:01] code 400, message Bad request version ("±Ê×®ûPæ\x1a#Ô©\x0e\x94~\x03lÆ,0~\x80\x00>\x13\x02\x13\x03\x13\x01À,À0\x00\x9fÌ©Ì¨ÌªÀ+À/\x00\x9eÀ$À(\x00kÀ#À'\x00gÀ")
+2023-11-04 04:03:01,384 [INFO] 123.249.111.22 - - [04/Nov/2023 04:03:01] "[31m[1m\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03\x06ÎË»Á\x19Ô)\x8d]¯`ãÁh\x88¶U`V5\x9d\x03g¹7?\x09Í(×ç f¼Ò\x80\x88ëåG~) ±Ê×®ûPæ\x1a#Ô©\x0e\x94~\x03lÆ,0~\x80\x00>\x13\x02\x13\x03\x13\x01À,À0\x00\x9fÌ©Ì¨ÌªÀ+À/\x00\x9eÀ$À(\x00kÀ#À'\x00gÀ[0m" 400 -
+2023-11-04 04:03:01,472 [ERROR] 123.249.111.22 - - [04/Nov/2023 04:03:01] code 400, message Bad request version ("Ór\x930®·|ïãäy7wÜ\x15&9Ë\x062i\x98mÑ\x818\x18c\x17\x9b\x01%\x00>\x13\x02\x13\x03\x13\x01À,À0\x00\x9fÌ©Ì¨ÌªÀ+À/\x00\x9eÀ$À(\x00kÀ#À'\x00gÀ")
+2023-11-04 04:03:01,472 [INFO] 123.249.111.22 - - [04/Nov/2023 04:03:01] "[31m[1m\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03Ôç\x1e+t\x09$LR\x86ÈÞ\x04$ËÛÞ\x86\\«Ýs¶È«Í³G­oì° Ór\x930®·|ïãäy7wÜ\x15&9Ë\x062i\x98mÑ\x818\x18c\x17\x9b\x01%\x00>\x13\x02\x13\x03\x13\x01À,À0\x00\x9fÌ©Ì¨ÌªÀ+À/\x00\x9eÀ$À(\x00kÀ#À'\x00gÀ[0m" 400 -
+2023-11-04 04:03:01,551 [INFO] 123.249.111.22 - - [04/Nov/2023 04:03:01] "[33mHEAD / HTTP/1.1[0m" 404 -
+2023-11-04 04:03:01,670 [INFO] 123.249.111.22 - - [04/Nov/2023 04:03:01] "[33mGET / HTTP/1.1[0m" 404 -
+2023-11-04 04:11:32,745 [INFO] 123.249.99.231 - - [04/Nov/2023 04:11:32] "[33mHEAD / HTTP/1.1[0m" 404 -
+2023-11-04 04:11:32,827 [INFO] 123.249.99.231 - - [04/Nov/2023 04:11:32] "[33mGET / HTTP/1.1[0m" 404 -
+2023-11-04 08:04:34,348 [ERROR] 89.248.163.96 - - [04/Nov/2023 08:04:34] code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie:')
+2023-11-04 08:04:34,349 [INFO] 89.248.163.96 - - [04/Nov/2023 08:04:34] "[31m[1m\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie: mstshash=Administr[0m" 400 -
+2023-11-04 08:18:59,966 [ERROR] 89.248.163.88 - - [04/Nov/2023 08:18:59] code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie:')
+2023-11-04 08:18:59,966 [INFO] 89.248.163.88 - - [04/Nov/2023 08:18:59] "[31m[1m\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie: mstshash=Administr[0m" 400 -
+2023-11-04 09:34:45,655 [ERROR] 123.160.221.21 - - [04/Nov/2023 09:34:45] code 400, message Bad request version ('À\x13À')
+2023-11-04 09:34:45,655 [INFO] 123.160.221.21 - - [04/Nov/2023 09:34:45] "[31m[1m\x16\x03\x01\x00î\x01\x00\x00ê\x03\x03I\x06²ù¼\x99iÀYûøºe-\x83Ud]\x0e\x8d·b8´gÆÝ9dZ8f gÁ\x81i³öòË°©\x19NÖ½\x95g|püé<Z¡\x90T·é¥8'O;\x00&À+À/À,À0Ì©Ì¨À\x09À\x13À[0m" 400 -
+2023-11-04 09:34:57,447 [INFO] 123.160.221.21 - - [04/Nov/2023 09:34:57] "[33mGET / HTTP/1.1[0m" 404 -
+2023-11-04 09:35:10,486 [INFO] 111.7.96.159 - - [04/Nov/2023 09:35:10] "[33mGET / HTTP/1.1[0m" 404 -
+2023-11-04 09:35:25,082 [INFO] 36.99.136.129 - - [04/Nov/2023 09:35:25] "[33mGET / HTTP/1.1[0m" 404 -
+2023-11-04 09:35:36,884 [INFO] 36.99.136.128 - - [04/Nov/2023 09:35:36] "[33mGET / HTTP/1.1[0m" 404 -
+2023-11-04 09:35:43,585 [INFO] 36.99.136.128 - - [04/Nov/2023 09:35:43] "[33mGET / HTTP/1.1[0m" 404 -
+2023-11-04 12:35:54,445 [INFO] 124.70.70.4 - - [04/Nov/2023 12:35:54] "[33mGET / HTTP/1.1[0m" 404 -
+2023-11-04 12:36:18,205 [INFO] 124.70.74.250 - - [04/Nov/2023 12:36:18] "[33mGET / HTTP/1.1[0m" 404 -
+2023-11-04 12:36:47,657 [INFO] 117.78.8.61 - - [04/Nov/2023 12:36:47] "[33mGET / HTTP/1.1[0m" 404 -
+2023-11-04 12:51:34,877 [INFO] 124.70.71.72 - - [04/Nov/2023 12:51:34] "[33mGET / HTTP/1.1[0m" 404 -
+2023-11-04 13:22:11,033 [INFO] 119.3.219.91 - - [04/Nov/2023 13:22:11] "[33mGET / HTTP/1.1[0m" 404 -
+2023-11-04 18:38:47,321 [ERROR] 179.60.147.13 - - [04/Nov/2023 18:38:47] code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie:')
+2023-11-04 18:38:47,322 [INFO] 179.60.147.13 - - [04/Nov/2023 18:38:47] "[31m[1m\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie: mstshash=Administr[0m" 400 -
+2023-11-04 21:48:47,348 [ERROR] 89.248.163.88 - - [04/Nov/2023 21:48:47] code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie:')
+2023-11-04 21:48:47,349 [INFO] 89.248.163.88 - - [04/Nov/2023 21:48:47] "[31m[1m\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie: mstshash=Administr[0m" 400 -
+2023-11-04 22:22:37,252 [ERROR] 89.248.163.96 - - [04/Nov/2023 22:22:37] code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie:')
+2023-11-04 22:22:37,252 [INFO] 89.248.163.96 - - [04/Nov/2023 22:22:37] "[31m[1m\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie: mstshash=Administr[0m" 400 -
+2023-11-04 23:36:03,648 [ERROR] 89.248.173.131 - - [04/Nov/2023 23:36:03] code 400, message Bad request syntax ('\x03\x00\x00\x13\x0eà\x00\x00\x00\x00\x00\x01\x00\x08\x00\x02\x00\x00\x00')
+2023-11-04 23:36:03,648 [INFO] 89.248.173.131 - - [04/Nov/2023 23:36:03] "[31m[1m\x03\x00\x00\x13\x0eà\x00\x00\x00\x00\x00\x01\x00\x08\x00\x02\x00\x00\x00[0m" 400 -
+2023-11-05 07:32:40,819 [ERROR] 111.85.112.45 - - [05/Nov/2023 07:32:40] code 400, message Bad HTTP/0.9 request type ('\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03k\x88ý\x03vQ×*½%¯ñ$\x94\x8bþqT:\x88N;¥yÁ°~\x98¨@ë\x91\x00\x00\x82À0À,À2À.À/À+À1À-\x00¥\x00£\x00¡\x00\x9f\x00¤\x00¢\x00')
+2023-11-05 07:32:40,819 [INFO] 111.85.112.45 - - [05/Nov/2023 07:32:40] "[31m[1m\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03k\x88ý\x03vQ×*½%¯ñ$\x94\x8bþqT:\x88N;¥yÁ°~\x98¨@ë\x91\x00\x00\x82À0À,À2À.À/À+À1À-\x00¥\x00£\x00¡\x00\x9f\x00¤\x00¢\x00 \x00\x9eÀ(À$À\x14À[0m" 400 -
+2023-11-05 10:45:12,121 [INFO] 123.249.99.231 - - [05/Nov/2023 10:45:12] "[33mGET / HTTP/1.1[0m" 404 -
+2023-11-05 11:07:34,811 [ERROR] 106.75.129.15 - - [05/Nov/2023 11:07:34] code 400, message Bad request version ('À\x13À')
+2023-11-05 11:07:34,812 [INFO] 106.75.129.15 - - [05/Nov/2023 11:07:34] "[31m[1m\x16\x03\x01\x00ò\x01\x00\x00î\x03\x03V#\\yj²è­Ö\x89\x05ÇnKû\x08\x16\x8c\x09¦¾\x9fr\x83Q\x15¸\x04\x8c\x9d/L EH£\x86ß¶\x81\x7f\x8fP]í¥Ø+\x00\x07n\x1f1_\x1búW\x1av!·ý¬1º\x00&À+À/À,À0Ì©Ì¨À\x09À\x13À[0m" 400 -
+2023-11-05 11:07:34,823 [ERROR] 106.75.129.15 - - [05/Nov/2023 11:07:34] code 400, message Bad request version ('À\x13À')
+2023-11-05 11:07:34,823 [INFO] 106.75.129.15 - - [05/Nov/2023 11:07:34] "[31m[1m\x16\x03\x01\x00ò\x01\x00\x00î\x03\x03h\x8c\x9ez»:\x94\x86§{d\x8a\x15Kà1\x9fzH\x8f.ðyÉ\x1f\x81Ù\x9açO\x1f\x80 «ý\x81w<A\x143¡ óÅØ6\\\x94\x81\x92[=ìk\x86ò\x88¸é;"\x85Ðh\x00&À+À/À,À0Ì©Ì¨À\x09À\x13À[0m" 400 -
+2023-11-05 11:07:34,832 [INFO] 106.75.129.15 - - [05/Nov/2023 11:07:34] "[33mGET / HTTP/1.1[0m" 404 -
+2023-11-05 11:07:35,996 [INFO] 106.75.139.106 - - [05/Nov/2023 11:07:35] "[33mGET / HTTP/1.1[0m" 404 -
+2023-11-05 11:07:36,013 [INFO] 106.75.139.106 - - [05/Nov/2023 11:07:36] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2023-11-05 11:24:44,563 [INFO] 121.36.70.110 - - [05/Nov/2023 11:24:44] "[33mGET / HTTP/1.1[0m" 404 -
+2023-11-05 16:45:11,455 [ERROR] 89.248.173.131 - - [05/Nov/2023 16:45:11] code 400, message Bad request syntax ('\x03\x00\x00\x13\x0eà\x00\x00\x00\x00\x00\x01\x00\x08\x00\x02\x00\x00\x00')
+2023-11-05 16:45:11,455 [INFO] 89.248.173.131 - - [05/Nov/2023 16:45:11] "[31m[1m\x03\x00\x00\x13\x0eà\x00\x00\x00\x00\x00\x01\x00\x08\x00\x02\x00\x00\x00[0m" 400 -
+2023-11-05 20:10:25,039 [ERROR] 111.85.112.45 - - [05/Nov/2023 20:10:25] code 400, message Bad request version ('\x00\x9eÀ(À$À\x14À')
+2023-11-05 20:10:25,039 [INFO] 111.85.112.45 - - [05/Nov/2023 20:10:25] "[31m[1m\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03ñù.3\x00fß\x9eªqHåª\x1fe\x01\x8b\x17ï3G\x19\x93$Ý\x1aVk\x08À¼J\x00\x00\x82À0À,À2À.À/À+À1À-\x00¥\x00£\x00¡\x00\x9f\x00¤\x00¢\x00 \x00\x9eÀ(À$À\x14À[0m" 400 -
+2023-11-05 21:51:14,407 [ERROR] 45.79.172.21 - - [05/Nov/2023 21:51:14] code 400, message Bad HTTP/0.9 request type ('\x16\x03\x01\x00')
+2023-11-05 21:51:14,407 [INFO] 45.79.172.21 - - [05/Nov/2023 21:51:14] "[31m[1m\x16\x03\x01\x00\x85\x01\x00\x00\x81\x03\x03\x01\x18Õ\x03Q®\x8c}^5[0m" 400 -
+2023-11-06 00:25:05,805 [ERROR] 89.248.163.212 - - [06/Nov/2023 00:25:05] code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie:')
+2023-11-06 00:25:05,805 [INFO] 89.248.163.212 - - [06/Nov/2023 00:25:05] "[31m[1m\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie: mstshash=Administr[0m" 400 -
+2023-11-06 00:42:42,998 [INFO] 45.79.181.251 - - [06/Nov/2023 00:42:42] "[33mGET / HTTP/1.1[0m" 404 -
+2023-11-06 01:05:59,762 [ERROR] 89.248.165.184 - - [06/Nov/2023 01:05:59] code 400, message Bad request syntax ('\x03\x00\x00\x13\x0eà\x00\x00\x00\x00\x00\x01\x00\x08\x00\x02\x00\x00\x00')
+2023-11-06 01:05:59,763 [INFO] 89.248.165.184 - - [06/Nov/2023 01:05:59] "[31m[1m\x03\x00\x00\x13\x0eà\x00\x00\x00\x00\x00\x01\x00\x08\x00\x02\x00\x00\x00[0m" 400 -
+2023-11-06 02:58:21,856 [ERROR] 111.7.96.147 - - [06/Nov/2023 02:58:21] code 400, message Bad request version ('À\x13À')
+2023-11-06 02:58:21,856 [INFO] 111.7.96.147 - - [06/Nov/2023 02:58:21] "[31m[1m\x16\x03\x01\x00î\x01\x00\x00ê\x03\x03I\x06²ù¼\x99iÀYûøºe-\x83Ud]\x0e\x8d·b8´gÆÝ9dZ8f gÁ\x81i³öòË°©\x19NÖ½\x95g|püé<Z¡\x90T·é¥8'O;\x00&À+À/À,À0Ì©Ì¨À\x09À\x13À[0m" 400 -
+2023-11-06 02:58:31,927 [INFO] 111.7.96.147 - - [06/Nov/2023 02:58:31] "[33mGET / HTTP/1.1[0m" 404 -
+2023-11-06 02:58:38,133 [INFO] 36.99.136.128 - - [06/Nov/2023 02:58:38] "[33mGET / HTTP/1.1[0m" 404 -
+2023-11-06 02:58:38,224 [INFO] 36.99.136.137 - - [06/Nov/2023 02:58:38] "[33mGET / HTTP/1.1[0m" 404 -
+2023-11-06 02:58:38,231 [INFO] 36.99.136.128 - - [06/Nov/2023 02:58:38] "[33mGET / HTTP/1.1[0m" 404 -
+2023-11-06 02:58:38,541 [INFO] 111.7.100.28 - - [06/Nov/2023 02:58:38] "[33mGET / HTTP/1.1[0m" 404 -
+2023-11-06 02:58:41,248 [INFO] 111.7.96.173 - - [06/Nov/2023 02:58:41] "[33mGET / HTTP/1.1[0m" 404 -
+2023-11-06 03:33:41,395 [INFO] 121.36.70.110 - - [06/Nov/2023 03:33:41] "[33mHEAD / HTTP/1.1[0m" 404 -
+2023-11-06 03:33:41,545 [INFO] 121.36.70.110 - - [06/Nov/2023 03:33:41] "[33mGET / HTTP/1.1[0m" 404 -
+2023-11-06 05:36:05,729 [INFO] 117.78.8.61 - - [06/Nov/2023 05:36:05] "[33mGET / HTTP/1.1[0m" 404 -
+2023-11-06 05:37:56,768 [INFO] 121.36.70.110 - - [06/Nov/2023 05:37:56] "[33mGET / HTTP/1.1[0m" 404 -
+2023-11-06 06:01:00,789 [INFO] 121.36.17.218 - - [06/Nov/2023 06:01:00] "[33mGET / HTTP/1.1[0m" 404 -
+2023-11-06 06:01:15,856 [INFO] 121.36.17.218 - - [06/Nov/2023 06:01:15] "[33mGET / HTTP/1.1[0m" 404 -
+2023-11-06 12:46:17,749 [ERROR] 89.248.163.212 - - [06/Nov/2023 12:46:17] code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie:')
+2023-11-06 12:46:17,749 [INFO] 89.248.163.212 - - [06/Nov/2023 12:46:17] "[31m[1m\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie: mstshash=Administr[0m" 400 -
+2023-11-06 21:14:34,576 [INFO] 47.92.208.29 - - [06/Nov/2023 21:14:34] "[33mGET / HTTP/1.0[0m" 404 -
+2023-11-06 21:14:38,084 [INFO] 47.92.208.29 - - [06/Nov/2023 21:14:38] "[33mGET / HTTP/1.1[0m" 404 -
+2023-11-06 21:35:47,746 [ERROR] 89.248.163.212 - - [06/Nov/2023 21:35:47] code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie:')
+2023-11-06 21:35:47,746 [INFO] 89.248.163.212 - - [06/Nov/2023 21:35:47] "[31m[1m\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie: mstshash=Administr[0m" 400 -
+2023-11-07 12:49:24,722 [ERROR] 111.85.112.45 - - [07/Nov/2023 12:49:24] code 400, message Bad request version ('\x00\x9eÀ(À$À\x14À')
+2023-11-07 12:49:24,722 [INFO] 111.85.112.45 - - [07/Nov/2023 12:49:24] "[31m[1m\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03\x10vwJ«#)´Ü'\x8a*·\x1c_ÚþOÕìÅ4ªcÝT15T\x9e\x1f\x1b\x00\x00\x82À0À,À2À.À/À+À1À-\x00¥\x00£\x00¡\x00\x9f\x00¤\x00¢\x00 \x00\x9eÀ(À$À\x14À[0m" 400 -
+2023-11-07 12:49:28,348 [ERROR] 111.11.176.86 - - [07/Nov/2023 12:49:28] code 400, message Bad request version ('~\x14l\x117\x92¥[µ³iAë|\x9d>©¿')
+2023-11-07 12:49:28,348 [INFO] 111.11.176.86 - - [07/Nov/2023 12:49:28] "[31m[1m\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03Xµã\x94|áÀ,\x0føG\x07Í\x98K)\x8eÊøÔ\x85Ý\x1eÂs\x07{ý|3\x83Ã ~\x14l\x117\x92¥[µ³iAë|\x9d>©¿[0m" 400 -
+2023-11-07 13:38:33,764 [ERROR] 89.248.163.110 - - [07/Nov/2023 13:38:33] code 400, message Bad request syntax ('\x03\x00\x00\x13\x0eà\x00\x00\x00\x00\x00\x01\x00\x08\x00\x02\x00\x00\x00')
+2023-11-07 13:38:33,764 [INFO] 89.248.163.110 - - [07/Nov/2023 13:38:33] "[31m[1m\x03\x00\x00\x13\x0eà\x00\x00\x00\x00\x00\x01\x00\x08\x00\x02\x00\x00\x00[0m" 400 -
+2023-11-07 15:45:11,880 [INFO] 124.70.74.250 - - [07/Nov/2023 15:45:11] "[33mGET / HTTP/1.1[0m" 404 -
+2023-11-07 21:53:39,478 [ERROR] 45.79.181.179 - - [07/Nov/2023 21:53:39] code 400, message Bad request version ('À\x14À')
+2023-11-07 21:53:39,478 [INFO] 45.79.181.179 - - [07/Nov/2023 21:53:39] "[31m[1m\x16\x03\x01\x00\x85\x01\x00\x00\x81\x03\x03\x093l0\x0bç\x95µ£4yH\x0eÌ\x9f\x82çrªu\x96³\x16Bå\x1c\x1e\x1e+VHÊ\x00\x00 À/À0À+À,Ì¨Ì©À\x13À\x09À\x14À[0m" 400 -
+2023-11-07 22:05:30,406 [INFO] 45.79.168.172 - - [07/Nov/2023 22:05:30] "[33mGET / HTTP/1.1[0m" 404 -
+2023-11-07 22:08:16,502 [INFO] 172.105.128.11 - - [07/Nov/2023 22:08:16] "[33mGET / HTTP/1.1[0m" 404 -
+2023-11-08 01:36:02,230 [INFO] 121.36.70.110 - - [08/Nov/2023 01:36:02] "[33mHEAD / HTTP/1.1[0m" 404 -
+2023-11-08 01:36:02,349 [INFO] 121.36.70.110 - - [08/Nov/2023 01:36:02] "[33mGET / HTTP/1.1[0m" 404 -
+2023-11-08 10:37:02,679 [ERROR] 89.248.165.130 - - [08/Nov/2023 10:37:02] code 400, message Bad request syntax ('\x03\x00\x00\x13\x0eà\x00\x00\x00\x00\x00\x01\x00\x08\x00\x02\x00\x00\x00')
+2023-11-08 10:37:02,679 [INFO] 89.248.165.130 - - [08/Nov/2023 10:37:02] "[31m[1m\x03\x00\x00\x13\x0eà\x00\x00\x00\x00\x00\x01\x00\x08\x00\x02\x00\x00\x00[0m" 400 -
+2023-11-08 23:35:32,450 [INFO] 111.85.112.45 - - [08/Nov/2023 23:35:32] "[33mGET / HTTP/1.1[0m" 404 -
+2023-11-08 23:35:32,587 [ERROR] 111.85.112.45 - - [08/Nov/2023 23:35:32] code 400, message Bad request version ('\x00\x9eÀ(À$À\x14À')
+2023-11-08 23:35:32,588 [INFO] 111.85.112.45 - - [08/Nov/2023 23:35:32] "[31m[1m\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03½J½vÂ±Ëðä\x0c\x9c\x1cOú\x0dbSBÿ\x84m\x94^?èÃ!:\x82wª:\x00\x00\x82À0À,À2À.À/À+À1À-\x00¥\x00£\x00¡\x00\x9f\x00¤\x00¢\x00 \x00\x9eÀ(À$À\x14À[0m" 400 -
+2023-11-08 23:38:33,403 [ERROR] 111.11.176.86 - - [08/Nov/2023 23:38:33] code 400, message Bad HTTP/0.9 request type ('\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03Ð®J1ãò\x9c#\x18î\x98ì\x9fÔ´£XMoÜÁ\x0f\x92¾\x10\x86uöW\x927\x13')
+2023-11-08 23:38:33,403 [INFO] 111.11.176.86 - - [08/Nov/2023 23:38:33] "[31m[1m\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03Ð®J1ãò\x9c#\x18î\x98ì\x9fÔ´£XMoÜÁ\x0f\x92¾\x10\x86uöW\x927\x13 \x08Èë\x8a#}\x84ÿ3\x97TÁ\x00áíÖ¾\x05D\x0fÀ)Ó¾\x13pøc\x8cp|Ñ\x00b\x13\x02\x13\x03\x13\x01À,À0À+À/Ì©Ì¨\x00£\x00\x9f\x00¢\x00\x9eÌªÀ¯À­À$À(À[0m" 400 -
+2023-11-09 02:35:01,877 [INFO] 123.249.99.231 - - [09/Nov/2023 02:35:01] "[33mGET / HTTP/1.1[0m" 404 -
+2023-11-09 16:51:05,398 [ERROR] 89.248.163.96 - - [09/Nov/2023 16:51:05] code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie:')
+2023-11-09 16:51:05,398 [INFO] 89.248.163.96 - - [09/Nov/2023 16:51:05] "[31m[1m\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie: mstshash=Administr[0m" 400 -
+2023-11-09 19:29:45,653 [ERROR] 111.85.112.45 - - [09/Nov/2023 19:29:45] code 400, message Bad request version ('\x00\x9eÀ(À$À\x14À')
+2023-11-09 19:29:45,653 [INFO] 111.85.112.45 - - [09/Nov/2023 19:29:45] "[31m[1m\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03*CWÒt Éã\x8b¿+"ÒiÐr\x1c-æµf[ÆS¸ïX\x80\x87Ì\x1eý\x00\x00\x82À0À,À2À.À/À+À1À-\x00¥\x00£\x00¡\x00\x9f\x00¤\x00¢\x00 \x00\x9eÀ(À$À\x14À[0m" 400 -
+2023-11-09 19:32:50,711 [INFO] 111.11.176.86 - - [09/Nov/2023 19:32:50] "[33mGET / HTTP/1.1[0m" 404 -
+2023-11-09 21:56:07,654 [ERROR] 45.33.80.243 - - [09/Nov/2023 21:56:07] code 400, message Bad request version ('À\x14À')
+2023-11-09 21:56:07,654 [INFO] 45.33.80.243 - - [09/Nov/2023 21:56:07] "[31m[1m\x16\x03\x01\x00\x85\x01\x00\x00\x81\x03\x03\x8bê=\x9dà<\x12¢\x03©>.«\x08O\x01\x95-ð\x0e\x9fñÝ±\x06Fn((åãl\x00\x00 À/À0À+À,Ì¨Ì©À\x13À\x09À\x14À[0m" 400 -
+2023-11-09 22:38:19,214 [INFO] 45.79.181.179 - - [09/Nov/2023 22:38:19] "[33mGET / HTTP/1.1[0m" 404 -
+2023-11-10 01:51:34,684 [INFO] 119.3.219.91 - - [10/Nov/2023 01:51:34] "[33mHEAD / HTTP/1.1[0m" 404 -
+2023-11-10 01:51:34,820 [INFO] 119.3.219.91 - - [10/Nov/2023 01:51:34] "[33mGET / HTTP/1.1[0m" 404 -
+2023-11-10 01:59:25,429 [INFO] 123.249.116.30 - - [10/Nov/2023 01:59:25] "[33mHEAD / HTTP/1.1[0m" 404 -
+2023-11-10 01:59:25,537 [INFO] 123.249.116.30 - - [10/Nov/2023 01:59:25] "[33mGET / HTTP/1.1[0m" 404 -
+2023-11-10 15:31:04,394 [ERROR] 89.248.163.212 - - [10/Nov/2023 15:31:04] code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie:')
+2023-11-10 15:31:04,395 [INFO] 89.248.163.212 - - [10/Nov/2023 15:31:04] "[31m[1m\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie: mstshash=Administr[0m" 400 -
+2023-11-10 20:39:11,316 [DEBUG] Starting new HTTP connection (1): 121.37.20.242:16666
+2023-11-10 20:39:13,458 [DEBUG] http://121.37.20.242:16666 "POST /api/conversation/talk HTTP/1.1" 200 680
+2023-11-10 20:39:13,461 [DEBUG] Starting new HTTP connection (1): 121.37.20.242:16666
+2023-11-10 20:39:14,360 [DEBUG] http://121.37.20.242:16666 "POST /api/conversation/gen_title/219a39d8-aace-49c8-9ef7-33d333db9833 HTTP/1.1" 200 36
+2023-11-10 20:39:14,361 [INFO] 121.37.20.242 - - [10/Nov/2023 20:39:14] "POST /post_chatgpt HTTP/1.1" 200 -
+2023-11-10 20:39:30,725 [DEBUG] Starting new HTTP connection (1): 121.37.20.242:16666
+2023-11-10 20:39:34,525 [DEBUG] http://121.37.20.242:16666 "POST /api/conversation/talk HTTP/1.1" 200 1124
+2023-11-10 20:39:34,527 [INFO] 121.37.20.242 - - [10/Nov/2023 20:39:34] "POST /post_chatgpt HTTP/1.1" 200 -
+2023-11-10 22:23:27,575 [ERROR] 89.248.163.212 - - [10/Nov/2023 22:23:27] code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie:')
+2023-11-10 22:23:27,575 [INFO] 89.248.163.212 - - [10/Nov/2023 22:23:27] "[31m[1m\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie: mstshash=Administr[0m" 400 -
+2023-11-11 15:21:42,582 [INFO] 47.92.219.133 - - [11/Nov/2023 15:21:42] "[33mGET / HTTP/1.0[0m" 404 -
+2023-11-11 15:21:47,279 [INFO] 47.92.219.133 - - [11/Nov/2023 15:21:47] "[33mGET / HTTP/1.1[0m" 404 -
+2023-11-11 15:21:50,652 [INFO] 47.92.219.133 - - [11/Nov/2023 15:21:50] "[33mGET /sitemap.xml HTTP/1.1[0m" 404 -
+2023-11-11 15:21:51,795 [INFO] 47.92.219.133 - - [11/Nov/2023 15:21:51] "[33mGET /robots.txt HTTP/1.1[0m" 404 -
+2023-11-11 16:17:28,651 [ERROR] 89.248.163.212 - - [11/Nov/2023 16:17:28] code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie:')
+2023-11-11 16:17:28,651 [INFO] 89.248.163.212 - - [11/Nov/2023 16:17:28] "[31m[1m\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie: mstshash=Administr[0m" 400 -
+2023-11-11 18:35:58,544 [ERROR] 89.248.165.186 - - [11/Nov/2023 18:35:58] code 400, message Bad request syntax ('\x03\x00\x00\x13\x0eà\x00\x00\x00\x00\x00\x01\x00\x08\x00\x02\x00\x00\x00')
+2023-11-11 18:35:58,544 [INFO] 89.248.165.186 - - [11/Nov/2023 18:35:58] "[31m[1m\x03\x00\x00\x13\x0eà\x00\x00\x00\x00\x00\x01\x00\x08\x00\x02\x00\x00\x00[0m" 400 -
+2023-11-11 18:58:03,821 [INFO] 117.78.8.61 - - [11/Nov/2023 18:58:03] "[33mHEAD / HTTP/1.1[0m" 404 -
+2023-11-11 18:58:03,934 [INFO] 117.78.8.61 - - [11/Nov/2023 18:58:03] "[33mGET / HTTP/1.1[0m" 404 -
+2023-11-11 19:14:52,097 [INFO] 123.249.99.231 - - [11/Nov/2023 19:14:52] "[33mHEAD /robots.txt HTTP/1.1[0m" 404 -
+2023-11-11 19:14:52,219 [INFO] 123.249.99.231 - - [11/Nov/2023 19:14:52] "[33mGET /robots.txt HTTP/1.1[0m" 404 -
+2023-11-11 21:52:53,525 [ERROR] 45.79.181.104 - - [11/Nov/2023 21:52:53] code 400, message Bad request version ('À\x14À')
+2023-11-11 21:52:53,526 [INFO] 45.79.181.104 - - [11/Nov/2023 21:52:53] "[31m[1m\x16\x03\x01\x00\x85\x01\x00\x00\x81\x03\x03|\x02u\x04ý/Ü¿ËðoÎòÂùÆã\x8eô\x02\x8b\x06Ó¤+\x166E\x14\x1dWU\x00\x00 À/À0À+À,Ì¨Ì©À\x13À\x09À\x14À[0m" 400 -
+2023-11-12 00:39:52,967 [INFO] 172.104.11.34 - - [12/Nov/2023 00:39:52] "[33mGET / HTTP/1.1[0m" 404 -
+2023-11-12 06:36:31,897 [ERROR] 162.142.125.212 - - [12/Nov/2023 06:36:31] code 400, message Bad request version ('À\x14À')
+2023-11-12 06:36:31,897 [INFO] 162.142.125.212 - - [12/Nov/2023 06:36:31] "[31m[1m\x16\x03\x01\x00î\x01\x00\x00ê\x03\x03\x91ìÂ\x09é¸0½­ï$Î¤\x808v^î¾ÿßÚVQ¦r¶]wBÚñ {\x92ì\x8eNYs\x19I_ù±\x0f¨û¹##X×\x82¿Q\x07)BÎê\x97\x81\x8d\x0c\x00&Ì¨Ì©À/À0À+À,À\x13À\x09À\x14À[0m" 400 -
+2023-11-12 06:36:33,357 [INFO] 162.142.125.212 - - [12/Nov/2023 06:36:33] "[33mGET / HTTP/1.1[0m" 404 -
+2023-11-12 06:36:33,832 [INFO] 162.142.125.212 - - [12/Nov/2023 06:36:33] "[33mGET / HTTP/1.1[0m" 404 -
+2023-11-12 06:36:34,282 [ERROR] 162.142.125.212 - - [12/Nov/2023 06:36:34] code 505, message Invalid HTTP version (2.0)
+2023-11-12 06:36:34,283 [INFO] 162.142.125.212 - - [12/Nov/2023 06:36:34] "[35m[1mPRI * HTTP/2.0[0m" 505 -
+2023-11-12 11:19:36,912 [ERROR] 89.248.163.212 - - [12/Nov/2023 11:19:36] code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie:')
+2023-11-12 11:19:36,912 [INFO] 89.248.163.212 - - [12/Nov/2023 11:19:36] "[31m[1m\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie: mstshash=Administr[0m" 400 -
+2023-11-12 13:58:09,275 [INFO] 111.85.112.45 - - [12/Nov/2023 13:58:09] "[33mGET / HTTP/1.1[0m" 404 -
+2023-11-12 13:58:09,420 [ERROR] 111.85.112.45 - - [12/Nov/2023 13:58:09] code 400, message Bad request version ('\x00\x9eÀ(À$À\x14À')
+2023-11-12 13:58:09,420 [INFO] 111.85.112.45 - - [12/Nov/2023 13:58:09] "[31m[1m\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03­Oï¢+\x81\x89@J4ÿJø,U\x0fH&bÇQçHÁ\x8bs\x1fë¬n-É\x00\x00\x82À0À,À2À.À/À+À1À-\x00¥\x00£\x00¡\x00\x9f\x00¤\x00¢\x00 \x00\x9eÀ(À$À\x14À[0m" 400 -
+2023-11-12 19:11:51,007 [ERROR] 89.248.165.186 - - [12/Nov/2023 19:11:51] code 400, message Bad request syntax ('\x03\x00\x00\x13\x0eà\x00\x00\x00\x00\x00\x01\x00\x08\x00\x02\x00\x00\x00')
+2023-11-12 19:11:51,007 [INFO] 89.248.165.186 - - [12/Nov/2023 19:11:51] "[31m[1m\x03\x00\x00\x13\x0eà\x00\x00\x00\x00\x00\x01\x00\x08\x00\x02\x00\x00\x00[0m" 400 -
+2023-11-12 20:11:04,949 [ERROR] 89.248.163.212 - - [12/Nov/2023 20:11:04] code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie:')
+2023-11-12 20:11:04,949 [INFO] 89.248.163.212 - - [12/Nov/2023 20:11:04] "[31m[1m\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie: mstshash=Administr[0m" 400 -
+2023-11-13 05:20:49,036 [ERROR] 89.248.165.184 - - [13/Nov/2023 05:20:49] code 400, message Bad request syntax ('\x03\x00\x00\x13\x0eà\x00\x00\x00\x00\x00\x01\x00\x08\x00\x02\x00\x00\x00')
+2023-11-13 05:20:49,036 [INFO] 89.248.165.184 - - [13/Nov/2023 05:20:49] "[31m[1m\x03\x00\x00\x13\x0eà\x00\x00\x00\x00\x00\x01\x00\x08\x00\x02\x00\x00\x00[0m" 400 -
+2023-11-13 05:20:49,115 [ERROR] 89.248.165.184 - - [13/Nov/2023 05:20:49] code 400, message Bad request syntax ('\x03\x00\x00\x13\x0eà\x00\x00\x00\x00\x00\x01\x00\x08\x00\x02\x00\x00\x00')
+2023-11-13 05:20:49,115 [INFO] 89.248.165.184 - - [13/Nov/2023 05:20:49] "[31m[1m\x03\x00\x00\x13\x0eà\x00\x00\x00\x00\x00\x01\x00\x08\x00\x02\x00\x00\x00[0m" 400 -
+2023-11-13 11:39:58,573 [ERROR] 123.160.221.15 - - [13/Nov/2023 11:39:58] code 400, message Bad request version ('À\x13À')
+2023-11-13 11:39:58,573 [INFO] 123.160.221.15 - - [13/Nov/2023 11:39:58] "[31m[1m\x16\x03\x01\x00î\x01\x00\x00ê\x03\x03I\x06²ù¼\x99iÀYûøºe-\x83Ud]\x0e\x8d·b8´gÆÝ9dZ8f gÁ\x81i³öòË°©\x19NÖ½\x95g|püé<Z¡\x90T·é¥8'O;\x00&À+À/À,À0Ì©Ì¨À\x09À\x13À[0m" 400 -
+2023-11-13 11:40:08,640 [INFO] 123.160.221.15 - - [13/Nov/2023 11:40:08] "[33mGET / HTTP/1.1[0m" 404 -
+2023-11-13 11:40:20,535 [INFO] 36.99.136.136 - - [13/Nov/2023 11:40:20] "[33mGET / HTTP/1.1[0m" 404 -
+2023-11-13 11:45:45,064 [INFO] 113.133.179.197 - - [13/Nov/2023 11:45:45] "[33mGET / HTTP/1.1[0m" 404 -
+2023-11-13 11:45:52,244 [INFO] 117.33.172.106 - - [13/Nov/2023 11:45:52] "[33mGET / HTTP/1.1[0m" 404 -
+2023-11-13 11:46:10,646 [INFO] 117.34.215.213 - - [13/Nov/2023 11:46:10] "[33mGET / HTTP/1.1[0m" 404 -
+2023-11-13 14:40:49,884 [INFO] 123.249.116.30 - - [13/Nov/2023 14:40:49] "[33mGET / HTTP/1.1[0m" 404 -
+2023-11-13 14:46:18,451 [INFO] 124.70.70.4 - - [13/Nov/2023 14:46:18] "[33mGET / HTTP/1.1[0m" 404 -
+2023-11-13 14:49:07,831 [INFO] 124.70.70.4 - - [13/Nov/2023 14:49:07] "[33mGET / HTTP/1.1[0m" 404 -
+2023-11-13 15:23:52,013 [INFO] 119.3.219.91 - - [13/Nov/2023 15:23:52] "[33mGET / HTTP/1.1[0m" 404 -
+2023-11-13 17:30:20,117 [ERROR] 89.248.163.212 - - [13/Nov/2023 17:30:20] code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie:')
+2023-11-13 17:30:20,117 [INFO] 89.248.163.212 - - [13/Nov/2023 17:30:20] "[31m[1m\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie: mstshash=Administr[0m" 400 -
+2023-11-13 20:45:22,922 [INFO] 167.248.133.185 - - [13/Nov/2023 20:45:22] "[33mGET / HTTP/1.1[0m" 404 -
+2023-11-13 20:45:23,582 [ERROR] 167.248.133.185 - - [13/Nov/2023 20:45:23] code 505, message Invalid HTTP version (2.0)
+2023-11-13 20:45:23,582 [INFO] 167.248.133.185 - - [13/Nov/2023 20:45:23] "[35m[1mPRI * HTTP/2.0[0m" 505 -
+2023-11-13 21:54:07,100 [ERROR] 172.105.128.11 - - [13/Nov/2023 21:54:07] code 400, message Bad request version ('À\x14À')
+2023-11-13 21:54:07,101 [INFO] 172.105.128.11 - - [13/Nov/2023 21:54:07] "[31m[1m\x16\x03\x01\x00\x85\x01\x00\x00\x81\x03\x03ÿõ\x11h\x82å\x1d®\x0cñ7ª\x7fM\x90<\x88^!¹¥LÃä>GU1É\x83ö\x1b\x00\x00 À/À0À+À,Ì¨Ì©À\x13À\x09À\x14À[0m" 400 -
+2023-11-13 22:20:53,528 [INFO] 198.74.56.46 - - [13/Nov/2023 22:20:53] "[33mGET / HTTP/1.1[0m" 404 -
+2023-11-13 22:21:26,117 [INFO] 192.155.90.118 - - [13/Nov/2023 22:21:26] "[33mGET / HTTP/1.1[0m" 404 -
+2023-11-13 23:31:22,163 [INFO] 123.249.99.231 - - [13/Nov/2023 23:31:22] "[33mHEAD / HTTP/1.1[0m" 404 -
+2023-11-13 23:31:22,260 [INFO] 123.249.99.231 - - [13/Nov/2023 23:31:22] "[33mGET / HTTP/1.1[0m" 404 -
+2023-11-14 14:01:36,633 [ERROR] 89.248.163.96 - - [14/Nov/2023 14:01:36] code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie:')
+2023-11-14 14:01:36,633 [INFO] 89.248.163.96 - - [14/Nov/2023 14:01:36] "[31m[1m\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie: mstshash=Administr[0m" 400 -
+2023-11-14 14:17:25,505 [INFO] 35.221.234.192 - - [14/Nov/2023 14:17:25] "[33mGET /api/models HTTP/1.1[0m" 404 -
+2023-11-14 19:34:06,738 [ERROR] 89.248.165.186 - - [14/Nov/2023 19:34:06] code 400, message Bad request syntax ('\x03\x00\x00\x13\x0eà\x00\x00\x00\x00\x00\x01\x00\x08\x00\x02\x00\x00\x00')
+2023-11-14 19:34:06,738 [INFO] 89.248.165.186 - - [14/Nov/2023 19:34:06] "[31m[1m\x03\x00\x00\x13\x0eà\x00\x00\x00\x00\x00\x01\x00\x08\x00\x02\x00\x00\x00[0m" 400 -
+2023-11-14 19:43:58,043 [ERROR] 111.85.112.45 - - [14/Nov/2023 19:43:58] code 400, message Bad request version ('\x00\x9eÀ(À$À\x14À')
+2023-11-14 19:43:58,044 [INFO] 111.85.112.45 - - [14/Nov/2023 19:43:58] "[31m[1m\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03»¸L\x89Ö2×\x90ÊÆÒh\x1f1ÂÆEì¤Nj"\x1fn}gÀ\x17îôóu\x00\x00\x82À0À,À2À.À/À+À1À-\x00¥\x00£\x00¡\x00\x9f\x00¤\x00¢\x00 \x00\x9eÀ(À$À\x14À[0m" 400 -
+2023-11-14 19:47:01,732 [INFO] 111.11.176.86 - - [14/Nov/2023 19:47:01] "[33mGET / HTTP/1.1[0m" 404 -
+2023-11-14 19:47:03,693 [ERROR] 111.11.176.86 - - [14/Nov/2023 19:47:03] code 400, message Bad request version ('\x10\x8b¼ÿá\x00b\x13\x02\x13\x03\x13\x01À,À0À+À/Ì©Ì¨\x00£\x00\x9f\x00¢\x00\x9eÌªÀ¯À\xadÀ$À(À')
+2023-11-14 19:47:03,693 [INFO] 111.11.176.86 - - [14/Nov/2023 19:47:03] "[31m[1m\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03zUJ\x9fT\x82\x83)nXðß\x1f¢@\x96¶É)\x96%7«\x13\x04aê\x9dXV\x1d> \x876g\x10ä N+3»S5\x11Û\x1cOq¢Cy×òhN\x09^\x1f\x10\x8b¼ÿá\x00b\x13\x02\x13\x03\x13\x01À,À0À+À/Ì©Ì¨\x00£\x00\x9f\x00¢\x00\x9eÌªÀ¯À­À$À(À[0m" 400 -
+2023-11-14 21:58:26,712 [ERROR] 89.248.163.96 - - [14/Nov/2023 21:58:26] code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie:')
+2023-11-14 21:58:26,712 [INFO] 89.248.163.96 - - [14/Nov/2023 21:58:26] "[31m[1m\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie: mstshash=Administr[0m" 400 -
+2023-11-15 20:09:22,580 [ERROR] 89.248.165.218 - - [15/Nov/2023 20:09:22] code 400, message Bad request syntax ('\x03\x00\x00\x13\x0eà\x00\x00\x00\x00\x00\x01\x00\x08\x00\x02\x00\x00\x00')
+2023-11-15 20:09:22,580 [INFO] 89.248.165.218 - - [15/Nov/2023 20:09:22] "[31m[1m\x03\x00\x00\x13\x0eà\x00\x00\x00\x00\x00\x01\x00\x08\x00\x02\x00\x00\x00[0m" 400 -
+2023-11-16 00:07:21,786 [ERROR] 111.85.112.45 - - [16/Nov/2023 00:07:21] code 400, message Bad request version ('\x00\x9eÀ(À$À\x14À')
+2023-11-16 00:07:21,786 [INFO] 111.85.112.45 - - [16/Nov/2023 00:07:21] "[31m[1m\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03g÷7ì\x9d\x166Ì*\x1c¹Ù»ï\x84Þ\x14S(Çí\x8a\x9f\x16ÕÏñ{j\x1d\x0b\x99\x00\x00\x82À0À,À2À.À/À+À1À-\x00¥\x00£\x00¡\x00\x9f\x00¤\x00¢\x00 \x00\x9eÀ(À$À\x14À[0m" 400 -
+2023-11-16 00:10:32,472 [INFO] 111.11.176.86 - - [16/Nov/2023 00:10:32] "[33mGET / HTTP/1.1[0m" 404 -
+2023-11-16 07:33:05,088 [INFO] 167.248.133.39 - - [16/Nov/2023 07:33:05] "[33mGET / HTTP/1.1[0m" 404 -
+2023-11-16 07:33:05,813 [ERROR] 167.248.133.39 - - [16/Nov/2023 07:33:05] code 505, message Invalid HTTP version (2.0)
+2023-11-16 07:33:05,813 [INFO] 167.248.133.39 - - [16/Nov/2023 07:33:05] "[35m[1mPRI * HTTP/2.0[0m" 505 -
+2023-11-16 10:23:26,963 [INFO] 124.70.70.4 - - [16/Nov/2023 10:23:26] "[33mHEAD / HTTP/1.1[0m" 404 -
+2023-11-16 10:23:27,130 [INFO] 124.70.70.4 - - [16/Nov/2023 10:23:27] "[33mGET / HTTP/1.1[0m" 404 -
+2023-11-17 07:02:55,643 [ERROR] 89.248.165.186 - - [17/Nov/2023 07:02:55] code 400, message Bad request syntax ('\x03\x00\x00\x13\x0eà\x00\x00\x00\x00\x00\x01\x00\x08\x00\x02\x00\x00\x00')
+2023-11-17 07:02:55,643 [INFO] 89.248.165.186 - - [17/Nov/2023 07:02:55] "[31m[1m\x03\x00\x00\x13\x0eà\x00\x00\x00\x00\x00\x01\x00\x08\x00\x02\x00\x00\x00[0m" 400 -
+2023-11-17 20:01:53,376 [ERROR] 89.248.165.184 - - [17/Nov/2023 20:01:53] code 400, message Bad request syntax ('\x03\x00\x00\x13\x0eà\x00\x00\x00\x00\x00\x01\x00\x08\x00\x02\x00\x00\x00')
+2023-11-17 20:01:53,377 [INFO] 89.248.165.184 - - [17/Nov/2023 20:01:53] "[31m[1m\x03\x00\x00\x13\x0eà\x00\x00\x00\x00\x00\x01\x00\x08\x00\x02\x00\x00\x00[0m" 400 -
+2023-11-17 21:54:40,407 [ERROR] 45.79.181.251 - - [17/Nov/2023 21:54:40] code 400, message Bad request version ('À\x14À')
+2023-11-17 21:54:40,407 [INFO] 45.79.181.251 - - [17/Nov/2023 21:54:40] "[31m[1m\x16\x03\x01\x00\x85\x01\x00\x00\x81\x03\x03¥}\x83¡vJ\x9f\x18Û:ì¥&µJ\x8c\x0caAìfPO\x9f\x97\x7fÓkY\x08ä\x0f\x00\x00 À/À0À+À,Ì¨Ì©À\x13À\x09À\x14À[0m" 400 -
+2023-11-17 22:40:30,706 [INFO] 45.79.128.205 - - [17/Nov/2023 22:40:30] "[33mGET / HTTP/1.1[0m" 404 -
+2023-11-18 01:50:30,543 [INFO] 121.36.17.218 - - [18/Nov/2023 01:50:30] "[33mHEAD / HTTP/1.1[0m" 404 -
+2023-11-18 01:50:30,675 [INFO] 121.36.17.218 - - [18/Nov/2023 01:50:30] "[33mGET / HTTP/1.1[0m" 404 -
+2023-11-18 05:05:09,368 [ERROR] 123.249.95.2 - - [18/Nov/2023 05:05:09] code 400, message Bad request version ('èÅj&Ë\x8fµ|Æ¤\x81`ÍEB7')
+2023-11-18 05:05:09,369 [INFO] 123.249.95.2 - - [18/Nov/2023 05:05:09] "[31m[1m\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03·\x8e÷ÊV\x1c\x9f³àø®PH\x05\x87\x0fí©\x9cæ(\x1dÊ ý©\x18\x12íxT{ ®^\x8e;\x1bC3vê=j\x82Ü\x0dèÅj&Ë\x8fµ|Æ¤\x81`ÍEB7[0m" 400 -
+2023-11-18 05:05:09,451 [ERROR] 123.249.95.2 - - [18/Nov/2023 05:05:09] code 400, message Bad request version ("¹\x9a¼\x1bÙ±BµW\x89!¾4'<ã|\x16l6úx\x085\x08\x8fÜ<e\x9bà\x14\x00>\x13\x02\x13\x03\x13\x01À,À0\x00\x9fÌ©Ì¨ÌªÀ+À/\x00\x9eÀ$À(\x00kÀ#À'\x00gÀ")
+2023-11-18 05:05:09,451 [INFO] 123.249.95.2 - - [18/Nov/2023 05:05:09] "[31m[1m\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03:º\x86é\\\x99j_D8Y\x8c!³\x0bcAdä'²Õ\x9d\x88\x84\x83J\x0c\x0dõª\x18 ¹\x9a¼\x1bÙ±BµW\x89!¾4'<ã|\x16l6úx\x085\x08\x8fÜ<e\x9bà\x14\x00>\x13\x02\x13\x03\x13\x01À,À0\x00\x9fÌ©Ì¨ÌªÀ+À/\x00\x9eÀ$À(\x00kÀ#À'\x00gÀ[0m" 400 -
+2023-11-18 05:05:09,538 [INFO] 123.249.95.2 - - [18/Nov/2023 05:05:09] "[33mHEAD / HTTP/1.1[0m" 404 -
+2023-11-18 05:05:09,668 [INFO] 123.249.95.2 - - [18/Nov/2023 05:05:09] "[33mGET / HTTP/1.1[0m" 404 -
+2023-11-18 05:16:46,746 [INFO] 123.249.116.30 - - [18/Nov/2023 05:16:46] "[33mHEAD / HTTP/1.1[0m" 404 -
+2023-11-18 05:16:46,861 [INFO] 123.249.116.30 - - [18/Nov/2023 05:16:46] "[33mGET / HTTP/1.1[0m" 404 -
+2023-11-18 08:15:29,305 [INFO] 167.94.138.126 - - [18/Nov/2023 08:15:29] "[33mGET / HTTP/1.1[0m" 404 -
+2023-11-18 08:15:30,050 [ERROR] 167.94.138.126 - - [18/Nov/2023 08:15:30] code 505, message Invalid HTTP version (2.0)
+2023-11-18 08:15:30,050 [INFO] 167.94.138.126 - - [18/Nov/2023 08:15:30] "[35m[1mPRI * HTTP/2.0[0m" 505 -
+2023-11-18 09:05:57,694 [ERROR] 89.248.165.186 - - [18/Nov/2023 09:05:57] code 400, message Bad request syntax ('\x03\x00\x00\x13\x0eà\x00\x00\x00\x00\x00\x01\x00\x08\x00\x02\x00\x00\x00')
+2023-11-18 09:05:57,694 [INFO] 89.248.165.186 - - [18/Nov/2023 09:05:57] "[31m[1m\x03\x00\x00\x13\x0eà\x00\x00\x00\x00\x00\x01\x00\x08\x00\x02\x00\x00\x00[0m" 400 -
+2023-11-18 10:57:41,747 [INFO] 47.92.170.139 - - [18/Nov/2023 10:57:41] "[33mGET / HTTP/1.0[0m" 404 -
+2023-11-18 10:57:44,613 [INFO] 47.92.170.139 - - [18/Nov/2023 10:57:44] "[33mGET / HTTP/1.1[0m" 404 -
+2023-11-18 18:06:06,148 [INFO] 223.113.128.208 - - [18/Nov/2023 18:06:06] "[33mGET / HTTP/1.1[0m" 404 -
+2023-11-18 18:06:06,984 [ERROR] 223.113.128.208 - - [18/Nov/2023 18:06:06] code 400, message Bad request version ('À\x13À')
+2023-11-18 18:06:06,985 [INFO] 223.113.128.208 - - [18/Nov/2023 18:06:06] "[31m[1m\x16\x03\x01\x00î\x01\x00\x00ê\x03\x03\x1f0r0Ì±\x97KK\x95\x92rÕ\x00\x14\x102/3Za7ú\x13æ©\x98»À\x82þ³ \x1c]\x8bÑ§9\x00\x07Î:·KÇ§\\"ß\x02eÚð½H\x9cËeâa\x81\x86Ò\x83\x00&À+À/À,À0Ì©Ì¨À\x09À\x13À[0m" 400 -
+2023-11-18 18:06:07,114 [ERROR] 223.113.128.208 - - [18/Nov/2023 18:06:07] code 400, message Bad HTTP/0.9 request type ('t3')
+2023-11-18 18:06:07,114 [INFO] 223.113.128.208 - - [18/Nov/2023 18:06:07] "[31m[1mt3 12.1.2[0m" 400 -
+2023-11-19 02:32:26,175 [INFO] 106.75.14.202 - - [19/Nov/2023 02:32:26] "[33mGET / HTTP/1.1[0m" 404 -
+2023-11-19 02:32:26,349 [INFO] 106.75.14.202 - - [19/Nov/2023 02:32:26] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2023-11-19 02:32:26,432 [INFO] 106.75.14.202 - - [19/Nov/2023 02:32:26] "[33mGET /robots.txt HTTP/1.1[0m" 404 -
+2023-11-19 02:32:26,438 [INFO] 106.75.14.202 - - [19/Nov/2023 02:32:26] "[33mGET /sitemap.xml HTTP/1.1[0m" 404 -
+2023-11-20 06:25:44,086 [INFO] 167.248.133.126 - - [20/Nov/2023 06:25:44] "[33mGET / HTTP/1.1[0m" 404 -
+2023-11-20 06:25:44,807 [ERROR] 167.248.133.126 - - [20/Nov/2023 06:25:44] code 505, message Invalid HTTP version (2.0)
+2023-11-20 06:25:44,807 [INFO] 167.248.133.126 - - [20/Nov/2023 06:25:44] "[35m[1mPRI * HTTP/2.0[0m" 505 -
+2023-11-23 10:46:24,850 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.1.4:8000
+2023-11-23 10:46:24,851 [INFO] [33mPress CTRL+C to quit[0m
+2023-11-23 10:46:24,870 [INFO]  * Restarting with watchdog (windowsapi)
+2023-11-23 10:46:25,246 [WARNING]  * Debugger is active!
+2023-11-23 10:46:25,250 [INFO]  * Debugger PIN: 567-387-344
